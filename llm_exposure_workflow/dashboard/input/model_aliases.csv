@@ -1,0 +1,214 @@
+benchmark_id,model_id,match_type,alias_text,priority,notes
+terminal_bench_2,abacus_ai_desktop_multiple,exact,Abacus AI Desktop | Multiple,10,Auto-generated from current unresolved live benchmark source names.
+gaia,adk_gaia,exact,ADK-GAIA,10,Auto-generated from current unresolved live benchmark source names.
+gaia,agent2030,exact,Agent2030,10,Auto-generated from current unresolved live benchmark source names.
+gaia,agent_2030,exact,agent-2030,10,Auto-generated from current unresolved live benchmark source names.
+gaia,agent_2030_v2_0,exact,agent-2030-v2.0,10,Auto-generated from current unresolved live benchmark source names.
+gaia,agentim,exact,AgentIM,10,Auto-generated from current unresolved live benchmark source names.
+gaia,agentim_v1_1,exact,AgentIM v1.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,agents_on_the_fly,exact,Agents-On-the-fly,10,Auto-generated from current unresolved live benchmark source names.
+gaia,aime_agent_v0_1,exact,Aime_Agent_v0.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,alita_v0_1,exact,Alita v0.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,alita_v1_1,exact,Alita v1.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,alita_v2_0,exact,Alita v2.0,10,Auto-generated from current unresolved live benchmark source names.
+gaia,alita_v2_1,exact,Alita v2.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,anges,exact,Anges,10,Auto-generated from current unresolved live benchmark source names.
+gaia,ant_test,exact,ant_test,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,ante_gemini_3_pro,exact,Ante | Gemini 3 Pro,10,Auto-generated from current unresolved live benchmark source names.
+gaia,auto_deep_research,exact,Auto-Deep-Research,10,Auto-generated from current unresolved live benchmark source names.
+gaia,autogpt4,exact,AutoGPT4,10,Auto-generated from current unresolved live benchmark source names.
+gaia,aworld,exact,AWorld,10,Auto-generated from current unresolved live benchmark source names.
+gaia,aworld_click_to_run_instantly,exact,AWorld (Click to Run Instantly),10,Auto-generated from current unresolved live benchmark source names.
+gaia,barcelona_v0_1,exact,Barcelona v0.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,camel_ai_claude_sonnet_4_5,exact,CAMEL-AI | Claude Sonnet 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,capy_claude_opus_4_6,exact,Capy | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,cchuter_minimax_m2_5,exact,cchuter | minimax-m2.5,10,Auto-generated from current unresolved live benchmark source names.
+gaia,claritybot,exact,ClarityBot,10,Auto-generated from current unresolved live benchmark source names.
+gaia,claritybotv2,exact,ClarityBotV2,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,claude_code_claude_haiku_4_5,exact,Claude Code | Claude Haiku 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,claude_code_claude_opus_4_1,exact,Claude Code | Claude Opus 4.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,claude_code_claude_opus_4_5,exact,Claude Code | Claude Opus 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,claude_code_claude_opus_4_6,exact,Claude Code | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,claude_code_claude_sonnet_4_5,exact,Claude Code | Claude Sonnet 4.5,10,Auto-generated from current unresolved live benchmark source names.
+gaia,co_sight_v0_1_cores_agent_original,exact,Co-Sight v0.1 | CoreS-Agent original,10,Auto-generated from current unresolved live benchmark source names.
+gaia,co_sight_v0_2_cores_agent_original,exact,Co-Sight v0.2 | CoreS-Agent original,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,codebrain_1_gemini_3_pro,exact,CodeBrain-1 | Gemini 3 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,codebrain_1_gpt_5_3_codex,exact,CodeBrain-1 | GPT-5.3-Codex,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,codex_cli_gpt_5,exact,Codex CLI | GPT-5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,codex_cli_gpt_5_1_codex_max,exact,Codex CLI | GPT-5.1-Codex-Max,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,codex_cli_gpt_5_2,exact,Codex CLI | GPT-5.2,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,codex_cli_gpt_5_codex,exact,Codex CLI | GPT-5-Codex,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,codex_cli_gpt_5_mini,exact,Codex CLI | GPT-5-Mini,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,codex_cli_gpt_5_nano,exact,Codex CLI | GPT-5-Nano,10,Auto-generated from current unresolved live benchmark source names.
+gaia,cohere_model,exact,Cohere Model,10,Auto-generated from current unresolved live benchmark source names.
+gaia,cores_agent,exact,CoreS-Agent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,cores_agent_v1_1,exact,CoreS-Agent（V1.1）,10,Auto-generated from current unresolved live benchmark source names.
+gaia,cores_agent_v1_2,exact,CoreS-Agent(V1.2),10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,crux_claude_opus_4_6,exact,Crux | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,crux_glm_4_7,exact,Crux | GLM 4.7,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,crux_gpt_5_1_codex,exact,Crux | GPT-5.1-Codex,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,crux_gpt_5_1_codex_mini,exact,Crux | GPT-5.1-Codex-Mini,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,crux_minimax_m2_1,exact,Crux | MiniMax M2.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,dakou_agent_qwen_3_coder_480b,exact,Dakou Agent | Qwen 3 Coder 480B,10,Auto-generated from current unresolved live benchmark source names.
+gaia,deedee,exact,deedee,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,deep_agents_gpt_5_2_codex,exact,Deep Agents | GPT-5.2-Codex,10,Auto-generated from current unresolved live benchmark source names.
+gaia,desearch,exact,desearch,10,Auto-generated from current unresolved live benchmark source names.
+gaia,desearch_v0_2,exact,desearch v0.2,10,Auto-generated from current unresolved live benchmark source names.
+gaia,desearch_v0_4,exact,desearch v0.4,10,Auto-generated from current unresolved live benchmark source names.
+gaia,deserach_v0_3,exact,deserach v0.3,10,Auto-generated from current unresolved live benchmark source names.
+gaia,dr_huichi,exact,DR-Huichi,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,droid_claude_opus_4_5,exact,Droid | Claude Opus 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,droid_claude_opus_4_6,exact,Droid | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,droid_gemini_3_pro,exact,Droid | Gemini 3 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,droid_gpt_5_2,exact,Droid | GPT-5.2,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,droid_gpt_5_3_codex,exact,Droid | GPT-5.3-Codex,10,Auto-generated from current unresolved live benchmark source names.
+gaia,drp_val_v_1_0,exact,DRP-val-v.1.0,10,Auto-generated from current unresolved live benchmark source names.
+gaia,dynasaur_l1,exact,dynasaur_l1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,fhswf_gaia_smolagents,exact,fhswf-gaia-smolagents,10,Auto-generated from current unresolved live benchmark source names.
+gaia,fhswf_smolagents,exact,fhswf-smolagents,10,Auto-generated from current unresolved live benchmark source names.
+gaia,fhswfgaia,exact,fhswfgaia,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,forgecode_claude_opus_4_6,exact,ForgeCode | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,forgecode_gemini_3_1_pro,exact,ForgeCode | Gemini 3.1 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,forgecode_gpt_5_4,exact,ForgeCode | GPT-5.4,10,Auto-generated from current unresolved live benchmark source names.
+gaia,friday,exact,FRIDAY,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,gemini_cli_gemini_2_5_flash,exact,Gemini CLI | Gemini 2.5 Flash,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,gemini_cli_gemini_2_5_pro,exact,Gemini CLI | Gemini 2.5 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,gemini_cli_gemini_3_flash,exact,Gemini CLI | Gemini 3 Flash,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,goose_claude_haiku_4_5,exact,Goose | Claude Haiku 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,goose_claude_opus_4_5,exact,Goose | Claude Opus 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,goose_claude_sonnet_4_5,exact,Goose | Claude Sonnet 4.5,10,Auto-generated from current unresolved live benchmark source names.
+gaia,gpt3_5,exact,GPT3.5,10,Auto-generated from current unresolved live benchmark source names.
+gaia,gpt4,exact,GPT4,10,Auto-generated from current unresolved live benchmark source names.
+gaia,gpt4_turbo,exact,GPT4 Turbo,10,Auto-generated from current unresolved live benchmark source names.
+gaia,gpt_3_5,exact,gpt-3.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,grok_cli_grok_4_20_reasoning,exact,grok-cli | Grok 4.20 Reasoning,10,Auto-generated from current unresolved live benchmark source names.
+gaia,h2ogpte_agent_v1_6_8,exact,h2oGPTe Agent v1.6.8,10,Auto-generated from current unresolved live benchmark source names.
+gaia,hero_v0_1,exact,Hero v0.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,hey_0_3,exact,hey-0.3,10,Auto-generated from current unresolved live benchmark source names.
+gaia,honey_agent,exact,Honey_agent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,hugging_face_agents_gpt_4o,exact,Hugging Face Agents + GPT-4o,10,Auto-generated from current unresolved live benchmark source names.
+gaia,huggingface_agents_llama3_70b,exact,HuggingFace Agents + Llama3-70B,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,ii_agent_gemini_3_pro,exact,II-Agent | Gemini 3 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,indusagi_coding_agent_gpt_5_3_codex,exact,IndusAGI Coding Agent | GPT-5.3-Codex,10,Auto-generated from current unresolved live benchmark source names.
+gaia,infantagent,exact,InfantAgent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,infantagent_04_17,exact,InfantAgent-04-17,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,junie_cli_gemini_3_flash,exact,Junie CLI | Gemini 3 Flash,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,junie_cli_multiple,exact,Junie CLI | Multiple,10,Auto-generated from current unresolved live benchmark source names.
+gaia,kkm_agent,exact,KKM Agent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,langfun_agent_2_3,exact,Langfun Agent 2.3,10,Auto-generated from current unresolved live benchmark source names.
+gaia,langfun_agent_v2_0,exact,Langfun Agent v2.0,10,Auto-generated from current unresolved live benchmark source names.
+gaia,langfun_agent_v2_1,exact,Langfun Agent v2.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,langfun_agent_v2_2,exact,Langfun Agent v2.2,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,letta_code_claude_opus_4_5,exact,Letta Code | Claude Opus 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,letta_code_gemini_3_pro,exact,Letta Code | Gemini 3 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,letta_code_gpt_5_1_codex,exact,Letta Code | GPT-5.1-Codex,10,Auto-generated from current unresolved live benchmark source names.
+gaia,lrc_huawei,exact,LRC-Huawei,10,Auto-generated from current unresolved live benchmark source names.
+gaia,magentic_1,exact,Magentic-1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,magentic_1_o1,exact,Magentic-1 (o1),10,Auto-generated from current unresolved live benchmark source names.
+gaia,masteragent,exact,MasterAgent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,masteragent20250510,exact,MasterAgent20250510,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,maya_v2_claude_4_5_sonnet,exact,MAYA-V2 | Claude 4.5 Sonnet,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,maya_v2_claude_4_6_opus,exact,MAYA-V2 | Claude 4.6 Opus,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_claude_haiku_4_5,exact,Mini-SWE-Agent | Claude Haiku 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_claude_opus_4_1,exact,Mini-SWE-Agent | Claude Opus 4.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_claude_sonnet_4_5,exact,Mini-SWE-Agent | Claude Sonnet 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_gemini_2_5_flash,exact,Mini-SWE-Agent | Gemini 2.5 Flash,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_gemini_2_5_pro,exact,Mini-SWE-Agent | Gemini 2.5 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_gpt_5,exact,Mini-SWE-Agent | GPT-5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_gpt_5_codex,exact,Mini-SWE-Agent | GPT-5-Codex,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_gpt_5_mini,exact,Mini-SWE-Agent | GPT-5-Mini,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_gpt_5_nano,exact,Mini-SWE-Agent | GPT-5-Nano,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_gpt_oss_120b,exact,Mini-SWE-Agent | GPT-OSS-120B,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_gpt_oss_20b,exact,Mini-SWE-Agent | GPT-OSS-20B,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_grok_4,exact,Mini-SWE-Agent | Grok 4,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mini_swe_agent_grok_code_fast_1,exact,Mini-SWE-Agent | Grok Code Fast 1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,model_e0d7c8ae1a,exact,АгентИИ.рф,10,Auto-generated from current unresolved live benchmark source names.
+gaia,multi_agent_experiment_v0_1_powered_by_autogen,exact,Multi-Agent Experiment v0.1 (powered by AutoGen),10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mux_claude_opus_4_5,exact,Mux | Claude Opus 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mux_claude_opus_4_6,exact,Mux | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mux_gpt_5_2,exact,Mux | GPT-5.2,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,mux_gpt_5_3_codex,exact,Mux | GPT-5.3-Codex,10,Auto-generated from current unresolved live benchmark source names.
+gaia,my_agent,exact,my_agent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,noxrobot_v0_1,exact,noxrobot v0.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,omne,exact,omne,10,Auto-generated from current unresolved live benchmark source names.
+gaia,oneagent,exact,OneAgent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,open_deep_research_pass_1,exact,open Deep Research | pass@1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,opencode_claude_opus_4_5,exact,OpenCode | Claude Opus 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_claude_haiku_4_5,exact,OpenHands | Claude Haiku 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_claude_opus_4_1,exact,OpenHands | Claude Opus 4.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_claude_opus_4_5,exact,OpenHands | Claude Opus 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_claude_sonnet_4_5,exact,OpenHands | Claude Sonnet 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_gemini_2_5_flash,exact,OpenHands | Gemini 2.5 Flash,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_gemini_2_5_pro,exact,OpenHands | Gemini 2.5 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_gpt_5,exact,OpenHands | GPT-5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_gpt_5_mini,exact,OpenHands | GPT-5-Mini,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_gpt_5_nano,exact,OpenHands | GPT-5-Nano,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_grok_4,exact,OpenHands | Grok 4,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_kimi_k2_instruct,exact,OpenHands | Kimi K2 Instruct,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,openhands_qwen_3_coder_480b,exact,OpenHands | Qwen 3 Coder 480B,10,Auto-generated from current unresolved live benchmark source names.
+gaia,openmanus,exact,OpenManus,10,Auto-generated from current unresolved live benchmark source names.
+gaia,openresearch,exact,openresearch,10,Auto-generated from current unresolved live benchmark source names.
+gaia,ormind_v0_1,exact,Ormind v0.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,ormind_v0_2,exact,Ormind v0.2,10,Auto-generated from current unresolved live benchmark source names.
+gaia,owl_roleplaying,exact,🦉 OWL - Roleplaying,10,Auto-generated from current unresolved live benchmark source names.
+gaia,owl_workforce,exact,🦉 OWL - Workforce,10,Auto-generated from current unresolved live benchmark source names.
+gaia,qb_1,exact,qb_1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,qbds,exact,qbds,10,Auto-generated from current unresolved live benchmark source names.
+gaia,qbnlp,exact,qbnlp,10,Auto-generated from current unresolved live benchmark source names.
+gaia,re_odr,exact,RE-ODR,10,Auto-generated from current unresolved live benchmark source names.
+gaia,running_beta,exact,running-beta,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,sageagent_gemini_3_pro,exact,SageAgent | Gemini 3 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,sageagent_gpt_5_3_codex,exact,SageAgent | GPT-5.3-Codex,10,Auto-generated from current unresolved live benchmark source names.
+gaia,sibyl_system_v0_1,exact,Sibyl System v0.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,simple_codex_gpt_5_3_codex,exact,Simple Codex | GPT-5.3-Codex,10,Auto-generated from current unresolved live benchmark source names.
+gaia,skywork_super_agents_v1,exact,Skywork Super Agents v1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,skywork_super_agents_v1_1,exact,Skywork Super Agents v1.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,spoox_m_gpt_5_mini,exact,spoox-m | GPT-5-Mini,10,Auto-generated from current unresolved live benchmark source names.
+gaia,tapeagent_v0_1,exact,TapeAgent v0.1,10,Auto-generated from current unresolved live benchmark source names.
+gaia,tapeagents_browsergym,exact,TapeAgents & BrowserGym,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_afterquery_gpt_oss_20b,exact,Terminus 2 | AfterQuery-GPT-OSS-20B,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_claude_haiku_4_5,exact,Terminus 2 | Claude Haiku 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_claude_opus_4_1,exact,Terminus 2 | Claude Opus 4.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_claude_opus_4_5,exact,Terminus 2 | Claude Opus 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_claude_opus_4_6,exact,Terminus 2 | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_claude_sonnet_4_5,exact,Terminus 2 | Claude Sonnet 4.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_deepseek_v3_2,exact,Terminus 2 | DeepSeek-V3.2,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gemini_2_5_flash,exact,Terminus 2 | Gemini 2.5 Flash,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gemini_2_5_pro,exact,Terminus 2 | Gemini 2.5 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gemini_3_flash,exact,Terminus 2 | Gemini 3 Flash,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gemini_3_pro,exact,Terminus 2 | Gemini 3 Pro,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_glm_4_6,exact,Terminus 2 | GLM 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_glm_4_7,exact,Terminus 2 | GLM 4.7,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_glm_5,exact,Terminus 2 | GLM 5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_5,exact,Terminus 2 | GPT-5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_5_1,exact,Terminus 2 | GPT-5.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_5_1_codex,exact,Terminus 2 | GPT-5.1-Codex,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_5_2,exact,Terminus 2 | GPT-5.2,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_5_3_codex,exact,Terminus 2 | GPT-5.3-Codex,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_5_codex,exact,Terminus 2 | GPT-5-Codex,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_5_mini,exact,Terminus 2 | GPT-5-Mini,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_5_nano,exact,Terminus 2 | GPT-5-Nano,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_oss_120b,exact,Terminus 2 | GPT-OSS-120B,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_gpt_oss_20b,exact,Terminus 2 | GPT-OSS-20B,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_grok_4,exact,Terminus 2 | Grok 4,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_grok_code_fast_1,exact,Terminus 2 | Grok Code Fast 1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_kimi_k2_5,exact,Terminus 2 | Kimi K2.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_kimi_k2_instruct,exact,Terminus 2 | Kimi K2 Instruct,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_kimi_k2_thinking,exact,Terminus 2 | Kimi K2 Thinking,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_minimax_m2,exact,Terminus 2 | MiniMax M2,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_minimax_m2_1,exact,Terminus 2 | MiniMax M2.1,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_minimax_m2_5,exact,Terminus 2 | Minimax m2.5,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_2_qwen_3_coder_480b,exact,Terminus 2 | Qwen 3 Coder 480B,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_kira_claude_opus_4_6,exact,Terminus-KIRA | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,terminus_kira_gemini_3_1_pro,exact,Terminus-KIRA | Gemini 3.1 Pro,10,Auto-generated from current unresolved live benchmark source names.
+gaia,test,exact,TEST,10,Auto-generated from current unresolved live benchmark source names.
+gaia,tobai,exact,tobAI,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,tongagents_claude_opus_4_6,exact,TongAgents | Claude Opus 4.6,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,tongagents_gemini_3_1_pro,exact,TongAgents | Gemini 3.1 Pro,10,Auto-generated from current unresolved live benchmark source names.
+gaia,trase_agent,exact,Trase Agent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,trase_agent_v0_2,exact,Trase Agent v0.2,10,Auto-generated from current unresolved live benchmark source names.
+gaia,trase_agent_v0_3,exact,Trase Agent v0.3,10,Auto-generated from current unresolved live benchmark source names.
+gaia,vm_agent,exact,VM Agent,10,Auto-generated from current unresolved live benchmark source names.
+gaia,warm_up_act,exact,Warm-up Act,10,Auto-generated from current unresolved live benchmark source names.
+terminal_bench_2,warp_multiple,exact,Warp | Multiple,10,Auto-generated from current unresolved live benchmark source names.
+gaia,xmanus,exact,xManus,10,Auto-generated from current unresolved live benchmark source names.

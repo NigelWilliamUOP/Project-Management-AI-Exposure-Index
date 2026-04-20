@@ -1,0 +1,17 @@
+{
+  "audit_record_count": 457,
+  "record_type_counts": {
+    "adjudication": 2,
+    "task_dependency": 413,
+    "direct_exposure": 21,
+    "task_profile": 21
+  },
+  "review_reason_counts": {
+    "adjudication_revise": 2,
+    "strong_edge": 41,
+    "thin_evidence": 388,
+    "low_confidence": 362,
+    "all_direct_exposure": 21,
+    "all_task_profiles": 21
+  }
+}

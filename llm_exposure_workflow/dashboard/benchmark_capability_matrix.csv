@@ -1,0 +1,9 @@
+benchmark_id,benchmark_label,benchmark_variant,dashboard_role,dashboard_weight,research,synthesis_reporting,planning_orchestration,tool_use,workflow_execution,computer_use,policy_compliance,technical_execution,official_source_url,last_verified_date
+gaia,GAIA,public_results,primary,1.00,0.30,0.15,0.20,0.15,0.10,0.00,0.10,0.00,https://huggingface.co/gaia-benchmark,2026-04-19
+bfcl_v4,BFCL V4,v4_official,primary,0.95,0.00,0.00,0.10,0.70,0.10,0.00,0.10,0.00,https://gorilla.cs.berkeley.edu/leaderboard,2026-04-12
+webarena_verified,WebArena-Verified,verified_public,primary,0.90,0.10,0.05,0.15,0.15,0.45,0.05,0.05,0.00,https://github.com/ServiceNow/webarena-verified,2026-04-19
+osworld_verified,OSWorld-Verified,verified_public,primary,0.90,0.05,0.00,0.10,0.05,0.20,0.45,0.05,0.10,https://os-world.github.io/,2026-04-19
+tau3_bench,Tau3-Bench,base_split,primary,1.00,0.05,0.05,0.10,0.20,0.20,0.00,0.40,0.00,https://github.com/sierra-research/tau2-bench,2026-04-19
+browsecomp,BrowseComp,v1_release,secondary,0.85,0.70,0.20,0.10,0.00,0.00,0.00,0.00,0.00,https://openai.com/index/browsecomp/,2026-04-19
+swe_bench_verified,SWE-bench Verified,bash_only_or_full_variant_specific,secondary,0.55,0.05,0.00,0.10,0.10,0.10,0.00,0.05,0.60,https://www.swebench.com/verified.html,2026-04-19
+terminal_bench_2,Terminal-Bench 2.0,current_public,secondary,0.45,0.00,0.00,0.10,0.15,0.15,0.05,0.05,0.50,https://www.tbench.ai/,2026-04-19

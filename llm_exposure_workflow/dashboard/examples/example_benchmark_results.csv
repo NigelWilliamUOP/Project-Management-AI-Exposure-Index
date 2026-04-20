@@ -1,0 +1,14 @@
+snapshot_month,model_id,benchmark_id,benchmark_variant,comparability_group,metric_name,metric_unit,score_raw,score_normalized_100,score_date,scaffold_type,source_url,source_type,result_quality_weight,notes
+2026-04,model_alpha,gaia,public_results,gaia_public_results,overall_accuracy,percent_100,74.2,,2026-04-18,,https://example.com/model-alpha/gaia,official_leaderboard,,Example official-style row.
+2026-04,model_alpha,bfcl_v4,v4_official,bfcl_v4_official,overall_score,percent_100,86.5,,2026-04-18,,https://example.com/model-alpha/bfcl,official_leaderboard,,
+2026-04,model_alpha,webarena_verified,verified_public,webarena_verified_public,success_rate,percent_100,58.4,,2026-04-18,browser_agent,https://example.com/model-alpha/webarena,third_party_reproduction,,
+2026-04,model_alpha,osworld_verified,verified_public,osworld_verified_public,success_rate,percent_100,44.1,,2026-04-18,computer_use_agent,https://example.com/model-alpha/osworld,third_party_reproduction,,
+2026-04,model_alpha,tau3_bench,base_split,tau3_bench_base,task_success,percent_100,62.7,,2026-04-18,tool_agent,https://example.com/model-alpha/tau3,official_dataset,,
+2026-04,model_alpha,browsecomp,v1_release,browsecomp_v1,task_score,percent_100,51.0,,2026-04-18,,https://example.com/model-alpha/browsecomp,official_paper,,
+2026-04,model_alpha,swe_bench_verified,bash_only_or_full_variant_specific,swe_bench_verified_bash,pass_rate,percent_100,47.3,,2026-04-18,repo_agent,https://example.com/model-alpha/swebench,vendor_report,,
+2026-04,model_alpha,terminal_bench_2,current_public,terminal_bench_2_public,success_rate,percent_100,42.9,,2026-04-18,terminal_agent,https://example.com/model-alpha/terminalbench,third_party_reproduction,,
+2026-04,model_beta,gaia,public_results,gaia_public_results,overall_accuracy,percent_100,66.1,,2026-04-18,,https://example.com/model-beta/gaia,official_leaderboard,,
+2026-04,model_beta,bfcl_v4,v4_official,bfcl_v4_official,overall_score,percent_100,79.3,,2026-04-18,,https://example.com/model-beta/bfcl,official_leaderboard,,
+2026-04,model_beta,webarena_verified,verified_public,webarena_verified_public,success_rate,percent_100,41.7,,2026-04-18,browser_agent,https://example.com/model-beta/webarena,third_party_reproduction,,
+2026-04,model_beta,tau3_bench,base_split,tau3_bench_base,task_success,percent_100,54.2,,2026-04-18,tool_agent,https://example.com/model-beta/tau3,official_dataset,,
+2026-04,model_beta,browsecomp,v1_release,browsecomp_v1,task_score,percent_100,46.8,,2026-04-18,,https://example.com/model-beta/browsecomp,official_paper,,

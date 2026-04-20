@@ -1,0 +1,248 @@
+[
+  {
+    "record_id": "WA01",
+    "label": "Coordinating the Work and Activities of Others",
+    "description": "Getting members of a group to work together to accomplish tasks.",
+    "importance": 97
+  },
+  {
+    "record_id": "WA02",
+    "label": "Communicating with Supervisors, Peers, or Subordinates",
+    "description": "Providing information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person.",
+    "importance": 93
+  },
+  {
+    "record_id": "WA03",
+    "label": "Getting Information",
+    "description": "Observing, receiving, and otherwise obtaining information from all relevant sources.",
+    "importance": 92
+  },
+  {
+    "record_id": "WA04",
+    "label": "Organizing, Planning, and Prioritizing Work",
+    "description": "Developing specific goals and plans to prioritize, organize, and accomplish your work.",
+    "importance": 91
+  },
+  {
+    "record_id": "WA05",
+    "label": "Working with Computers",
+    "description": "Using computers and computer systems (including hardware and software) to program, write software, set up functions, enter data, or process information.",
+    "importance": 88
+  },
+  {
+    "record_id": "WA06",
+    "label": "Developing and Building Teams",
+    "description": "Encouraging and building mutual trust, respect, and cooperation among team members.",
+    "importance": 86
+  },
+  {
+    "record_id": "WA07",
+    "label": "Scheduling Work and Activities",
+    "description": "Scheduling events, programs, and activities, as well as the work of others.",
+    "importance": 86
+  },
+  {
+    "record_id": "WA08",
+    "label": "Making Decisions and Solving Problems",
+    "description": "Analyzing information and evaluating results to choose the best solution and solve problems.",
+    "importance": 85
+  },
+  {
+    "record_id": "WA09",
+    "label": "Monitoring and Controlling Resources",
+    "description": "Monitoring and controlling resources and overseeing the spending of money.",
+    "importance": 85
+  },
+  {
+    "record_id": "WA10",
+    "label": "Updating and Using Relevant Knowledge",
+    "description": "Keeping up-to-date technically and applying new knowledge to your job.",
+    "importance": 85
+  },
+  {
+    "record_id": "WA11",
+    "label": "Developing Objectives and Strategies",
+    "description": "Establishing long-range objectives and specifying the strategies and actions to achieve them.",
+    "importance": 83
+  },
+  {
+    "record_id": "WA12",
+    "label": "Establishing and Maintaining Interpersonal Relationships",
+    "description": "Developing constructive and cooperative working relationships with others, and maintaining them over time.",
+    "importance": 83
+  },
+  {
+    "record_id": "WA13",
+    "label": "Interpreting the Meaning of Information for Others",
+    "description": "Translating or explaining what information means and how it can be used.",
+    "importance": 83
+  },
+  {
+    "record_id": "WA14",
+    "label": "Guiding, Directing, and Motivating Subordinates",
+    "description": "Providing guidance and direction to subordinates, including setting performance standards and monitoring performance.",
+    "importance": 82
+  },
+  {
+    "record_id": "WA15",
+    "label": "Identifying Objects, Actions, and Events",
+    "description": "Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events.",
+    "importance": 82
+  },
+  {
+    "record_id": "WA16",
+    "label": "Resolving Conflicts and Negotiating with Others",
+    "description": "Handling complaints, settling disputes, and resolving grievances and conflicts, or otherwise negotiating with others.",
+    "importance": 81
+  },
+  {
+    "record_id": "WA17",
+    "label": "Documenting/Recording Information",
+    "description": "Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic form.",
+    "importance": 80
+  },
+  {
+    "record_id": "WA18",
+    "label": "Analyzing Data or Information",
+    "description": "Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts.",
+    "importance": 79
+  },
+  {
+    "record_id": "WA19",
+    "label": "Communicating with People Outside the Organization",
+    "description": "Communicating with people outside the organization, representing the organization to customers, the public, government, and other external sources. This information can be exchanged in person, in writing, or by telephone or e-mail.",
+    "importance": 79
+  },
+  {
+    "record_id": "WA20",
+    "label": "Processing Information",
+    "description": "Compiling, coding, categorizing, calculating, tabulating, auditing, or verifying information or data.",
+    "importance": 79
+  },
+  {
+    "record_id": "WA21",
+    "label": "Evaluating Information to Determine Compliance with Standards",
+    "description": "Using relevant information and individual judgment to determine whether events or processes comply with laws, regulations, or standards.",
+    "importance": 78
+  },
+  {
+    "record_id": "WA22",
+    "label": "Monitoring Processes, Materials, or Surroundings",
+    "description": "Monitoring and reviewing information from materials, events, or the environment, to detect or assess problems.",
+    "importance": 78
+  },
+  {
+    "record_id": "WA23",
+    "label": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+    "description": "Estimating sizes, distances, and quantities; or determining time, costs, resources, or materials needed to perform a work activity.",
+    "importance": 76
+  },
+  {
+    "record_id": "WA24",
+    "label": "Providing Consultation and Advice to Others",
+    "description": "Providing guidance and expert advice to management or other groups on technical, systems-, or process-related topics.",
+    "importance": 75
+  },
+  {
+    "record_id": "WA25",
+    "label": "Coaching and Developing Others",
+    "description": "Identifying the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills.",
+    "importance": 72
+  },
+  {
+    "record_id": "WA26",
+    "label": "Judging the Qualities of Objects, Services, or People",
+    "description": "Assessing the value, importance, or quality of things or people.",
+    "importance": 70
+  },
+  {
+    "record_id": "WA27",
+    "label": "Thinking Creatively",
+    "description": "Developing, designing, or creating new applications, ideas, relationships, systems, or products, including artistic contributions.",
+    "importance": 69
+  },
+  {
+    "record_id": "WA28",
+    "label": "Performing Administrative Activities",
+    "description": "Performing day-to-day administrative tasks such as maintaining information files and processing paperwork.",
+    "importance": 66
+  },
+  {
+    "record_id": "WA29",
+    "label": "Training and Teaching Others",
+    "description": "Identifying the educational needs of others, developing formal educational or training programs or classes, and teaching or instructing others.",
+    "importance": 66
+  },
+  {
+    "record_id": "WA30",
+    "label": "Selling or Influencing Others",
+    "description": "Convincing others to buy merchandise/goods or to otherwise change their minds or actions.",
+    "importance": 62
+  },
+  {
+    "record_id": "WA31",
+    "label": "Staffing Organizational Units",
+    "description": "Recruiting, interviewing, selecting, hiring, and promoting employees in an organization.",
+    "importance": 60
+  },
+  {
+    "record_id": "WA32",
+    "label": "Assisting and Caring for Others",
+    "description": "Providing personal assistance, medical attention, emotional support, or other personal care to others such as coworkers, customers, or patients.",
+    "importance": 54
+  },
+  {
+    "record_id": "WA33",
+    "label": "Inspecting Equipment, Structures, or Materials",
+    "description": "Inspecting equipment, structures, or materials to identify the cause of errors or other problems or defects.",
+    "importance": 43
+  },
+  {
+    "record_id": "WA34",
+    "label": "Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+    "description": "Providing documentation, detailed instructions, drawings, or specifications to tell others about how devices, parts, equipment, or structures are to be fabricated, constructed, assembled, modified, maintained, or used.",
+    "importance": 41
+  },
+  {
+    "record_id": "WA35",
+    "label": "Performing for or Working Directly with the Public",
+    "description": "Performing for people or dealing directly with the public. This includes serving customers in restaurants and stores, and receiving clients or guests.",
+    "importance": 39
+  },
+  {
+    "record_id": "WA36",
+    "label": "Repairing and Maintaining Electronic Equipment",
+    "description": "Servicing, repairing, calibrating, regulating, fine-tuning, or testing machines, devices, and equipment that operate primarily on the basis of electrical or electronic (not mechanical) principles.",
+    "importance": 26
+  },
+  {
+    "record_id": "WA37",
+    "label": "Performing General Physical Activities",
+    "description": "Performing general physical activities includes doing activities that require considerable use of your arms and legs and moving your whole body, such as climbing, lifting, balancing, walking, stooping, and handling materials.",
+    "importance": 25
+  },
+  {
+    "record_id": "WA38",
+    "label": "Controlling Machines and Processes",
+    "description": "Using either control mechanisms or direct physical activity to operate machines or processes (not including computers or vehicles).",
+    "importance": 23
+  },
+  {
+    "record_id": "WA39",
+    "label": "Handling and Moving Objects",
+    "description": "Using hands and arms in handling, installing, positioning, and moving materials, and manipulating things.",
+    "importance": 19
+  },
+  {
+    "record_id": "WA40",
+    "label": "Operating Vehicles, Mechanized Devices, or Equipment",
+    "description": "Running, maneuvering, navigating, or driving vehicles or mechanized equipment, such as forklifts, passenger vehicles, aircraft, or watercraft.",
+    "importance": 15
+  },
+  {
+    "record_id": "WA41",
+    "label": "Repairing and Maintaining Mechanical Equipment",
+    "description": "Servicing, repairing, adjusting, and testing machines, devices, moving parts, and equipment that operate primarily on the basis of mechanical (not electronic) principles.",
+    "importance": 11
+  }
+]

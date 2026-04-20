@@ -1,0 +1,68 @@
+source_task_id,target_task_id,relation_type,dependency_strength,confidence,weight,evidence_chunk_ids,justification
+T05,T11,informs,4,0.93,0.93,requirements_pg_p032_c12|requirements_pg_p041_c17,Customer needs are a direct planning input.
+T05,T09,informs,3,0.88,0.66,ba_practice_p039_c24|benefits_pg_p001_c01,Need prioritization shapes implementation and ROI logic.
+T05,T16,informs,2,0.8,0.4,program_p115_c50|requirements_pg_p032_c12,Stakeholder needs inform communication planning.
+T05,T17,informs,3,0.85,0.6375,requirements_pg_p032_c12|wbs_pg_p001_c01,Requirements and customer priorities shape scope decomposition.
+T05,T14,informs,2,0.74,0.37,program_p115_c50|ba_practice_p039_c24,Customer needs affect vendor criteria and sourcing options.
+T09,T11,informs,3,0.87,0.6525,estimating_pg_p001_c01|benefits_pg_p001_c01,Implementation analyses feed the integrated plan.
+T09,T15,informs,3,0.9,0.675,estimating_pg_p001_c01,Implementation planning creates budget assumptions.
+T09,T10,informs,3,0.85,0.6375,estimating_pg_p001_c01|portfolio_p063_c38,Implementation design identifies resource needs.
+T09,T21,informs,2,0.72,0.36,benefits_pg_p001_c01|portfolio_p095_c58,Cost-benefit framing helps negotiation positions.
+T10,T19,enables,3,0.88,0.66,portfolio_p063_c38,Identified staffing gaps trigger recruitment activity.
+T10,T14,enables,3,0.86,0.645,portfolio_p063_c38,Non-staff resource gaps trigger vendor sourcing.
+T10,T15,informs,2,0.83,0.415,estimating_pg_p001_c01|portfolio_p063_c38,Resource need affects budget volume.
+T10,T21,informs,2,0.79,0.395,portfolio_p063_c38,Identified resource gaps frame later negotiation.
+T11,T01,enables,4,0.96,0.96,evm_p041_c24|evm_p043_c25,Integrated planning enables controlled execution.
+T11,T03,enables,3,0.9,0.675,scheduling_pg_p069_c30|evm_p041_c24,Plan content defines what milestones and deliverables are tracked.
+T11,T06,enables,3,0.86,0.645,evm_p043_c25|risk_practice_p059_c35,A formal plan provides the object that later gets changed.
+T11,T07,enables,2,0.76,0.38,evm_p108_c65|program_p115_c50,Planned governance and stakeholder routines inform meeting cadence.
+T11,T15,enables,2,0.81,0.405,estimating_pg_p001_c01|evm_p041_c24,Integrated planning sharpens budget structure.
+T11,T16,enables,3,0.88,0.66,evm_p108_c65|requirements_pg_p032_c12,Communication planning depends on the integrated plan context.
+T11,T17,enables,3,0.84,0.63,wbs_pg_p001_c01|evm_p041_c24,Integrated planning and scope structure reinforce each other.
+T12,T11,informs,4,0.94,0.94,risk_practice_p059_c35|risk_practice_p031_c18,Risk strategy is integrated into the plan.
+T12,T01,informs,2,0.8,0.4,risk_practice_p031_c18,Execution choices should reflect risk response strategy.
+T12,T06,informs,3,0.88,0.66,risk_practice_p031_c18,Risk findings often trigger plan modifications.
+T12,T13,informs,3,0.86,0.645,risk_practice_p059_c35|evm_p108_c65,Risk posture should be visible in status reporting.
+T12,T21,informs,1,0.7,0.175,risk_practice_p031_c18,Risk treatment sometimes shapes negotiating posture.
+T15,T01,constrains,3,0.9,0.675,estimating_pg_p001_c01|evm_p041_c24,Budget boundaries constrain how execution can proceed.
+T15,T13,informs,3,0.89,0.6675,evm_p033_c21,Budget status is a core reporting input.
+T15,T10,constrains,2,0.78,0.39,portfolio_p063_c38|estimating_pg_p001_c01,Available budget limits supplemental resource requests.
+T16,T07,enables,3,0.91,0.6825,evm_p108_c65,Meeting scheduling operationalizes the communication plan.
+T16,T13,informs,4,0.93,0.93,evm_p108_c65|evm_p033_c21,Status reporting follows planned communication pathways.
+T16,T02,informs,2,0.76,0.38,program_p115_c50|evm_p108_c65,Planned communication paths influence how issues are surfaced.
+T17,T01,enables,4,0.95,0.95,wbs_pg_p001_c01|wbs_pg_p018_c06,Execution requires defined work packages and scope structure.
+T17,T03,enables,3,0.9,0.675,scheduling_pg_p069_c30,WBS elements trace to trackable schedule activities.
+T17,T10,enables,3,0.88,0.66,wbs_pg_p018_c06|portfolio_p063_c38,Decomposition clarifies what resources are needed.
+T17,T20,enables,3,0.87,0.6525,wbs_pg_p018_c06,Work breakdown informs responsibility assignment.
+T19,T20,enables,3,0.85,0.6375,portfolio_p063_c38,Recruitment fills roles that can then be assigned.
+T19,T08,enables,2,0.77,0.385,portfolio_p063_c38,Recruitment supplies personnel for later coordination.
+T14,T21,enables,2,0.73,0.365,program_p115_c50|portfolio_p063_c38,Vendor review provides options and leverage for negotiation.
+T14,T01,enables,2,0.74,0.37,portfolio_p063_c38,Selected vendors influence executable resource availability.
+T14,T10,informs,2,0.71,0.355,portfolio_p063_c38,Vendor capability review refines resource-gap thinking.
+T21,T01,enables,3,0.84,0.63,portfolio_p025_c14|program_p115_c50,Negotiated resources and commitments unlock execution.
+T21,T10,informs,2,0.72,0.36,portfolio_p063_c38,Negotiation outcomes refine resource needs and feasibility.
+T07,T02,enables,2,0.75,0.375,evm_p108_c65,Meetings create the venue for issue identification and resolution.
+T07,T13,enables,2,0.73,0.365,evm_p108_c65,Meetings produce updates that often feed formal status reports.
+T02,T06,informs,3,0.89,0.6675,risk_practice_p031_c18|evm_p033_c21,Resolved and unresolved issues often trigger plan changes.
+T02,T13,informs,3,0.87,0.6525,evm_p033_c21,Issue trends are part of project status narratives.
+T02,T01,informs,2,0.79,0.395,program_p142_c63,Problem resolution changes execution choices and pacing.
+T03,T13,informs,4,0.95,0.95,evm_p033_c21|evm_p108_c65,Milestone and deliverable status are core report inputs.
+T03,T06,informs,3,0.88,0.66,evm_p033_c21,Tracking reveals slippage that can require plan updates.
+T03,T04,enables,3,0.86,0.645,scheduling_pg_p069_c30,Deliverable submission typically follows milestone completion.
+T08,T01,enables,4,0.91,0.91,program_p142_c63,Personnel coordination is a direct enabler of execution.
+T08,T18,enables,3,0.82,0.615,program_p142_c63,Directed work creates the basis for later performance feedback.
+T18,T08,informs,2,0.76,0.38,portfolio_p063_c38,Feedback informs how personnel are coordinated next.
+T18,T19,informs,2,0.71,0.355,portfolio_p063_c38,Performance observations can imply a staffing or replacement need.
+T20,T08,enables,4,0.89,0.89,wbs_pg_p018_c06|portfolio_p063_c38,Assigned responsibilities operationalize coordination.
+T20,T01,enables,3,0.87,0.6525,wbs_pg_p018_c06,Execution depends on clear responsibility and authority.
+T20,T18,informs,2,0.75,0.375,wbs_pg_p018_c06,Performance feedback depends on defined roles and expectations.
+T06,T11,changes,4,0.95,0.95,evm_p043_c25,Plan changes flow back into the integrated plan itself.
+T06,T01,changes,3,0.88,0.66,evm_p043_c25|evm_p041_c24,Approved modifications alter execution conditions.
+T06,T03,changes,2,0.8,0.4,evm_p043_c25,Plan changes can alter what milestones are monitored.
+T01,T03,informs,3,0.85,0.6375,evm_p033_c21,Actual execution progress is what milestone tracking reads.
+T01,T04,enables,3,0.86,0.645,benefits_pg_p001_c01,Execution produces the work that can be submitted as deliverables.
+T01,T13,informs,3,0.87,0.6525,evm_p033_c21,Execution outcomes generate reportable status and trend data.
+T01,T06,informs,2,0.79,0.395,evm_p033_c21,Execution variance can trigger change review.
+T13,T06,informs,3,0.84,0.63,evm_p033_c21|evm_p108_c65,Formal reports escalate issues and variances into change decisions.
+T13,T16,communicates_with,2,0.76,0.38,evm_p108_c65,Status reporting and communication planning reinforce each other.
+T04,T13,informs,2,0.78,0.39,benefits_pg_p001_c01|evm_p033_c21,Delivered outputs affect status narratives and perceived progress.

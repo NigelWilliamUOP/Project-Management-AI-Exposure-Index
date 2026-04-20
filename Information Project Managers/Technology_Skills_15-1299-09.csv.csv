@@ -1,0 +1,146 @@
+Section,Category,Example
+Technology,Access software,Citrix cloud computing software
+Technology,Accounting software,Tax software
+Technology,Analytical or scientific software,IBM SPSS Statistics
+Technology,Analytical or scientific software,Minitab
+Technology,Analytical or scientific software,SAS
+Technology,Analytical or scientific software,The MathWorks MATLAB
+Technology,Application server software,Docker
+Technology,Application server software,GitHub
+Technology,Application server software,Red Hat OpenShift
+Technology,Application server software,Spring Boot
+Technology,Backup or archival software,Veritas NetBackup
+Technology,Business intelligence and data analysis software,Apache Spark
+Technology,Business intelligence and data analysis software,IBM Cognos Impromptu
+Technology,Business intelligence and data analysis software,Oracle Business Intelligence Enterprise Edition
+Technology,Business intelligence and data analysis software,Tableau
+Technology,Calendar and scheduling software,Scheduling software
+Technology,Cloud-based data access and sharing software,Glasscubes
+Technology,Cloud-based data access and sharing software,Google Drive
+Technology,Cloud-based data access and sharing software,Slack
+Technology,Cloud-based data access and sharing software,Wrike
+Technology,Cloud-based management software,IBM WebSphere
+Technology,Cloud-based management software,IBM WebSphere MQ
+Technology,Cloud-based management software,Splunk Enterprise
+Technology,Clustering software,VMware
+Technology,Communications server software,IBM Domino
+Technology,Computer aided design CAD software,Autodesk AutoCAD
+Technology,Computer aided design CAD software,Autodesk Revit
+Technology,Computer aided design CAD software,Dassault Systemes CATIA
+Technology,Computer based training software,Blackboard software
+Technology,Computer based training software,Edulastic
+Technology,Configuration management software,Chef
+Technology,Configuration management software,IBM Software Configuration and Library Manager SCLM
+Technology,Configuration management software,Perforce Helix software
+Technology,Configuration management software,Puppet
+Technology,Customer relationship management CRM software,Blackbaud The Raiser's Edge
+Technology,Customer relationship management CRM software,Oracle Eloqua
+Technology,Customer relationship management CRM software,Salesforce software
+Technology,Data base management system software,Amazon DynamoDB
+Technology,Data base management system software,Apache Hive
+Technology,Data base management system software,Elasticsearch
+Technology,Data base management system software,Oracle PL/SQL
+Technology,Data base reporting software,Microsoft SQL Server Reporting Services SSRS
+Technology,Data base reporting software,SAP Crystal Reports
+Technology,Data base user interface and query software,Airtable
+Technology,Data base user interface and query software,IBM DB2
+Technology,Data base user interface and query software,ServiceNow
+Technology,Data base user interface and query software,Transact-SQL
+Technology,Data mining software,Google Analytics
+Technology,Desktop communications software,Skype
+Technology,Desktop publishing software,Adobe InDesign
+Technology,Desktop publishing software,Microsoft Publisher
+Technology,Development environment software,Apache Kafka
+Technology,Development environment software,Apache Maven
+Technology,Development environment software,Microsoft Team Foundation Server
+Technology,Development environment software,Oracle Java 2 Platform Enterprise Edition J2EE
+Technology,Document management software,Adobe Acrobat
+Technology,Document management software,Document management system software
+Technology,Document management software,Microsoft SharePoint
+Technology,Document management software,O3spaces Workplace
+Technology,Electronic mail software,IBM Notes
+Technology,Electronic mail software,Microsoft Exchange
+Technology,Electronic mail software,Microsoft Outlook
+Technology,Enterprise application integration software,Extensible markup language XML
+Technology,Enterprise application integration software,IBM InfoSphere DataStage
+Technology,Enterprise application integration software,Microsoft SQL Server Integration Services SSIS
+Technology,Enterprise application integration software,Oracle Fusion Middleware
+Technology,Enterprise resource planning ERP software,Microsoft Dynamics
+Technology,Enterprise resource planning ERP software,Oracle PeopleSoft
+Technology,Enterprise resource planning ERP software,SAP ERP
+Technology,Enterprise resource planning ERP software,SAP software
+Technology,Enterprise system management software,IBM Power Systems software
+Technology,Enterprise system management software,Kforge
+Technology,Expert system software,Ansible software
+Technology,File versioning software,Apache Subversion SVN
+Technology,File versioning software,Continuous integration software
+Technology,File versioning software,Git
+Technology,File versioning software,Version control software
+Technology,Financial analysis software,Delphi Technology
+Technology,Financial analysis software,Oracle E-Business Suite Financials
+Technology,Geographic information system,ESRI ArcGIS software
+Technology,Geographic information system,Geographic information system GIS software
+Technology,Graphical user interface development software,Salesforce Visualforce
+Technology,Graphics or photo imaging software,Adobe Creative Cloud software
+Technology,Graphics or photo imaging software,Adobe Illustrator
+Technology,Graphics or photo imaging software,JamBoard
+Technology,Graphics or photo imaging software,Trimble SketchUp Pro
+Technology,Human resources software,Human resource management software HRMS
+Technology,Human resources software,Oracle Taleo
+Technology,Industrial control software,Supervisory control and data acquisition SCADA software
+Technology,Information retrieval or search software,LexisNexis
+Technology,Internet protocol IP multimedia subsystem software,Voice over internet protocol VoIP system software
+Technology,Medical software,Epic Systems
+Technology,Medical software,Healthcare common procedure coding system HCPCS
+Technology,Metadata management software,Quest Erwin Data Modeler
+Technology,Mobile location based services software,Resource management software
+Technology,Network monitoring software,Nagios
+Technology,Network monitoring software,Wireshark
+Technology,Network security or virtual private network VPN management software,Virtual private networking VPN software
+Technology,Object or component oriented development software,C#
+Technology,Object or component oriented development software,jQuery
+Technology,Object or component oriented development software,Scala
+Technology,Object or component oriented development software,Swift
+Technology,Object oriented data base management software,Hibernate ORM
+Technology,Object oriented data base management software,PostgreSQL
+Technology,Office suite software,Microsoft Office software
+Technology,Operating system software,Bash
+Technology,Operating system software,Microsoft Windows Server
+Technology,Operating system software,Red Hat Enterprise Linux
+Technology,Operating system software,UNIX Shell
+Technology,Pattern design software,MatchWare MindView
+Technology,Pattern design software,MindGenius
+Technology,Pattern design software,MPI Micro Planner X-Pert
+Technology,Pattern design software,NovaMind Merlin Project Manager
+Technology,Portal server software,Apache HTTP Server
+Technology,Presentation software,Microsoft PowerPoint
+Technology,Process mapping and design software,Microsoft Visio
+Technology,Program testing software,Hewlett Packard LoadRunner
+Technology,Program testing software,JUnit
+Technology,Program testing software,Selenium
+Technology,Project management software,Atlassian Confluence
+Technology,Project management software,Atlassian JIRA
+Technology,Project management software,Microsoft Teams
+Technology,Project management software,Oracle Primavera Enterprise Project Portfolio Management
+Technology,Requirements analysis and system architecture software,Unified modeling language UML
+Technology,Sales and marketing software,Google Ads
+Technology,Sales and marketing software,Marketo Marketing Automation
+Technology,Spreadsheet software,Microsoft Excel
+Technology,Transaction security and virus protection software,McAfee
+Technology,Transaction security and virus protection software,NortonLifeLock cybersecurity software
+Technology,Transaction server software,Customer information control system CICS
+Technology,Video conferencing software,Cisco Webex
+Technology,Video conferencing software,Google Meet
+Technology,Video conferencing software,LogMeIn GoToMeeting
+Technology,Video creation and editing software,Apple Final Cut Pro
+Technology,Video creation and editing software,Screencast-O-Matic
+Technology,Web page creation and editing software,Adobe Dreamweaver
+Technology,Web page creation and editing software,Facebook
+Technology,Web platform development software,Django
+Technology,Web platform development software,Google Angular
+Technology,Web platform development software,React
+Technology,Web platform development software,Spring Framework
+Technology,Word processing software,3M Post-it App
+Technology,Word processing software,Google Docs
+Technology,Word processing software,Microsoft OneNote
+Technology,Word processing software,Microsoft Word

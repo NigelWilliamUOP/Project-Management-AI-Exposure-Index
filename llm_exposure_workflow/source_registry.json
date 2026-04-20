@@ -1,0 +1,272 @@
+{
+  "registry_version": "2026-04-19",
+  "registry_purpose": "Canonical source registry for PMI standards and practice guides used by the LLM exposure workflow.",
+  "workspace_root": "C:\\Users\\mrnig\\Documents\\codex\\AI and Project Management jobs",
+  "source_folder": "PMI Standards",
+  "sources": [
+    {
+      "source_id": "program",
+      "chunk_id_prefix": "program",
+      "document_type": "standard",
+      "role_in_workflow": "core_standard",
+      "display_title": "The Standard for Program Management (Fifth Edition)",
+      "preferred_filename": "standardforprogrammanagementfifthed.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/standardforprogrammanagementfifthed.pdf",
+      "page_count": 262,
+      "sha256_preferred": "8D8C7BCD0851301FC5B44A5153140D217C3380FDDA7172FAAA2EA19BB9C99F49",
+      "use_for_coding": true,
+      "ingest_order": 1,
+      "coverage_hints": [
+        "strategic_alignment",
+        "benefits_management",
+        "stakeholder_engagement",
+        "governance",
+        "collaboration",
+        "life_cycle_management"
+      ],
+      "notes": "Primary source for program-level interdependence, benefits logic, governance, and collaboration."
+    },
+    {
+      "source_id": "portfolio",
+      "chunk_id_prefix": "portfolio",
+      "document_type": "standard",
+      "role_in_workflow": "core_standard",
+      "display_title": "The Standard for Portfolio Management (Fourth Edition)",
+      "preferred_filename": "standardforportfoliomangementfourthed.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/standardforportfoliomangementfourthed.pdf",
+      "page_count": 140,
+      "sha256_preferred": "7A408F0DDE47681780261F818D4F633CD0AB37F9F36B32222EDC554407DCD1C5",
+      "use_for_coding": true,
+      "ingest_order": 2,
+      "coverage_hints": [
+        "portfolio_strategic_management",
+        "capacity_capability_management",
+        "stakeholder_engagement",
+        "value_management",
+        "risk_management"
+      ],
+      "notes": "Primary source for strategy alignment above the single-project level, portfolio value, and capacity/capability logic."
+    },
+    {
+      "source_id": "evm",
+      "chunk_id_prefix": "evm",
+      "document_type": "standard",
+      "role_in_workflow": "core_standard",
+      "display_title": "The Standard for Earned Value Management",
+      "preferred_filename": "Standard_Earned_Value_Management.pdf",
+      "filename_aliases": [
+        "Standard_Earned_Value_Management (1).pdf"
+      ],
+      "relative_path": "PMI Standards/Standard_Earned_Value_Management.pdf",
+      "page_count": 182,
+      "sha256_preferred": "5A5A09F5669329A5E908F5A11173C849179F23FF0C62B8ED3FA284B110049C12",
+      "alias_hashes": {
+        "Standard_Earned_Value_Management (1).pdf": "5A5A09F5669329A5E908F5A11173C849179F23FF0C62B8ED3FA284B110049C12"
+      },
+      "use_for_coding": true,
+      "ingest_order": 3,
+      "coverage_hints": [
+        "scope_schedule_cost_integration",
+        "baseline_control",
+        "monitoring_control",
+        "reporting",
+        "change_control",
+        "resource_management"
+      ],
+      "notes": "Canonical EVM source. The filename with '(1)' is an exact duplicate and should not be chunked separately."
+    },
+    {
+      "source_id": "risk_standard",
+      "chunk_id_prefix": "risk_standard",
+      "document_type": "standard",
+      "role_in_workflow": "core_standard",
+      "display_title": "The Standard for Risk Management in Portfolios, Programs, and Projects",
+      "preferred_filename": "thestandardforriskmgmt.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/thestandardforriskmgmt.pdf",
+      "page_count": 194,
+      "sha256_preferred": "03CAD6A108B69E69336B95AF30A13B3144AF450CE5F135966E3871D53A26B59D",
+      "use_for_coding": true,
+      "ingest_order": 4,
+      "coverage_hints": [
+        "risk_management",
+        "risk_governance",
+        "uncertainty",
+        "portfolio_program_project_risk"
+      ],
+      "notes": "Use when risk concepts need a normative standard source rather than only a practice guide."
+    },
+    {
+      "source_id": "risk_practice",
+      "chunk_id_prefix": "risk_practice",
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Risk Management in Portfolios, Programs, and Projects: A Practice Guide",
+      "preferred_filename": "riskmanagementpracticeguide.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/riskmanagementpracticeguide.pdf",
+      "page_count": 165,
+      "sha256_preferred": "49C1763EA74194870DF8D60904DB70B104B2E84EB306D2FBDEAB94467CF619FD",
+      "use_for_coding": true,
+      "ingest_order": 5,
+      "coverage_hints": [
+        "risk_identification",
+        "risk_analysis",
+        "risk_response",
+        "risk_monitoring"
+      ],
+      "notes": "Supplemental operational guidance for risk practice; useful when task logic is more procedural than principle-based."
+    },
+    {
+      "source_id": "agile_pg",
+      "chunk_id_prefix": "agile_pg",
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Agile Practice Guide",
+      "preferred_filename": "AgilePracticeGuide.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/AgilePracticeGuide.pdf",
+      "page_count": 184,
+      "sha256_preferred": "CFE47C2EA4FFDE6CCB6A8B17930353FBABE527285DA1C24E47FA3D351104E294",
+      "use_for_coding": true,
+      "ingest_order": 6,
+      "coverage_hints": [
+        "agile_delivery",
+        "hybrid_delivery",
+        "adaptive_planning",
+        "backlog",
+        "iterative_monitoring"
+      ],
+      "notes": "Use for adaptive and hybrid interpretations of PM work, especially planning, communication, and backlog-driven execution."
+    },
+    {
+      "source_id": "benefits_pg",
+      "chunk_id_prefix": "benefits_pg",
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Benefits Realization Management: A Practice Guide",
+      "preferred_filename": "benefitsrealizationmanagement_practiceguide.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/benefitsrealizationmanagement_practiceguide.pdf",
+      "page_count": 108,
+      "sha256_preferred": "D053497B614963AA87201ECFAF95CB762A516838E2A60E8D741F27630FAE5946",
+      "use_for_coding": true,
+      "ingest_order": 7,
+      "coverage_hints": [
+        "benefits_management",
+        "value_realization",
+        "transition_to_outcomes",
+        "benefits_tracking"
+      ],
+      "notes": "Helpful for tasks that shape value delivery, expected outcomes, or organizational benefit realization."
+    },
+    {
+      "source_id": "requirements_pg",
+      "chunk_id_prefix": "requirements_pg",
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Requirements Management: A Practice Guide",
+      "preferred_filename": "RequirementsMgmt_PG.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/RequirementsMgmt_PG.pdf",
+      "page_count": 94,
+      "sha256_preferred": "B547EE76A0E7440E7B2B385692DE7716BB38F7CB9B5AF38408B28C4210BCDA3B",
+      "use_for_coding": true,
+      "ingest_order": 8,
+      "coverage_hints": [
+        "requirements_management",
+        "requirements_traceability",
+        "scope_definition",
+        "stakeholder_needs"
+      ],
+      "notes": "Use for customer-needs assessment, requirement capture, and changes to scope-driving artifacts."
+    },
+    {
+      "source_id": "scheduling_pg",
+      "chunk_id_prefix": "scheduling_pg",
+      "document_type": "practice_standard",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Practice Standard for Scheduling (Third Edition)",
+      "preferred_filename": "PS_Scheduling_3rd.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/PS_Scheduling_3rd.pdf",
+      "page_count": 222,
+      "sha256_preferred": "C6FD0898E7BB8635803A10EA65EBD27007AFBCB9D42C9683D3D37AF029FA7DCE",
+      "use_for_coding": true,
+      "ingest_order": 9,
+      "coverage_hints": [
+        "scheduling_management",
+        "activity_sequencing",
+        "critical_path",
+        "milestones",
+        "schedule_baseline"
+      ],
+      "notes": "Source ID keeps the existing `*_pg` convention for workflow compatibility even though this document is a practice standard."
+    },
+    {
+      "source_id": "estimating_pg",
+      "chunk_id_prefix": "estimating_pg",
+      "document_type": "practice_standard",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Practice Standard for Project Estimating (Second Edition)",
+      "preferred_filename": "PS_Project_Estimating_2ndEd.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/PS_Project_Estimating_2ndEd.pdf",
+      "page_count": 136,
+      "sha256_preferred": "8A4B8E9DA520598B2578F0F5C35F86E147B199215B89BDB99388DA0AFD6D182B",
+      "use_for_coding": true,
+      "ingest_order": 10,
+      "coverage_hints": [
+        "estimating",
+        "basis_of_estimate",
+        "uncertainty",
+        "cost_schedule_baselining"
+      ],
+      "notes": "Useful for tasks involving planning, budgeting, ROI logic, and estimate refinement."
+    },
+    {
+      "source_id": "wbs_pg",
+      "chunk_id_prefix": "wbs_pg",
+      "document_type": "practice_standard",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Practice Standard for Work Breakdown Structures (Third Edition)",
+      "preferred_filename": "PS_WBS_ThirdEd.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/PS_WBS_ThirdEd.pdf",
+      "page_count": 214,
+      "sha256_preferred": "99DA3C77D8823C731FE134013682C7AF7FF2AC0BDD6BCA3E7169D6366B8CB67C",
+      "use_for_coding": true,
+      "ingest_order": 11,
+      "coverage_hints": [
+        "work_breakdown_management",
+        "scope_decomposition",
+        "work_packages",
+        "deliverable_structure"
+      ],
+      "notes": "Primary supplemental source for WBS-specific tasks and decomposition logic."
+    },
+    {
+      "source_id": "ba_practice",
+      "chunk_id_prefix": "ba_practice",
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Business Analysis for Practitioners: A Practice Guide (Second Edition)",
+      "preferred_filename": "ba_practitionerspg_secondedition.pdf",
+      "filename_aliases": [],
+      "relative_path": "PMI Standards/ba_practitionerspg_secondedition.pdf",
+      "page_count": 162,
+      "sha256_preferred": "73DC540DD6ABA1955C4C87BD1E31A92EA65A844A7D581295B7BFD58AD7A7C328",
+      "use_for_coding": true,
+      "ingest_order": 12,
+      "coverage_hints": [
+        "business_analysis",
+        "requirements_management",
+        "stakeholder_needs",
+        "solution_evaluation"
+      ],
+      "notes": "Use when tasks involve customer needs, problem framing, requirement interpretation, or solution-oriented analysis."
+    }
+  ]
+}

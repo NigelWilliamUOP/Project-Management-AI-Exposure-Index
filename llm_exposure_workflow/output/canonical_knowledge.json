@@ -1,0 +1,200 @@
+[
+  {
+    "record_id": "KN01",
+    "label": "English Language",
+    "description": "Knowledge of the structure and content of the English language including the meaning and spelling of words, and rules of composition and grammar.",
+    "importance": 82
+  },
+  {
+    "record_id": "KN02",
+    "label": "Customer and Personal Service",
+    "description": "Knowledge of principles and processes for providing customer and personal services. This includes customer needs assessment, meeting quality standards for services, and evaluation of customer satisfaction.",
+    "importance": 81
+  },
+  {
+    "record_id": "KN03",
+    "label": "Computers and Electronics",
+    "description": "Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.",
+    "importance": 80
+  },
+  {
+    "record_id": "KN04",
+    "label": "Administration and Management",
+    "description": "Knowledge of business and management principles involved in strategic planning, resource allocation, human resources modeling, leadership technique, production methods, and coordination of people and resources.",
+    "importance": 75
+  },
+  {
+    "record_id": "KN05",
+    "label": "Engineering and Technology",
+    "description": "Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services.",
+    "importance": 65
+  },
+  {
+    "record_id": "KN06",
+    "label": "Economics and Accounting",
+    "description": "Knowledge of economic and accounting principles and practices, the financial markets, banking, and the analysis and reporting of financial data.",
+    "importance": 59
+  },
+  {
+    "record_id": "KN07",
+    "label": "Administrative",
+    "description": "Knowledge of administrative and office procedures and systems such as word processing, managing files and records, stenography and transcription, designing forms, and workplace terminology.",
+    "importance": 57
+  },
+  {
+    "record_id": "KN08",
+    "label": "Telecommunications",
+    "description": "Knowledge of transmission, broadcasting, switching, control, and operation of telecommunications systems.",
+    "importance": 55
+  },
+  {
+    "record_id": "KN09",
+    "label": "Mathematics",
+    "description": "Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications.",
+    "importance": 54
+  },
+  {
+    "record_id": "KN10",
+    "label": "Personnel and Human Resources",
+    "description": "Knowledge of principles and procedures for personnel recruitment, selection, training, compensation and benefits, labor relations and negotiation, and personnel information systems.",
+    "importance": 54
+  },
+  {
+    "record_id": "KN11",
+    "label": "Communications and Media",
+    "description": "Knowledge of media production, communication, and dissemination techniques and methods. This includes alternative ways to inform and entertain via written, oral, and visual media.",
+    "importance": 53
+  },
+  {
+    "record_id": "KN12",
+    "label": "Education and Training",
+    "description": "Knowledge of principles and methods for curriculum and training design, teaching and instruction for individuals and groups, and the measurement of training effects.",
+    "importance": 49
+  },
+  {
+    "record_id": "KN13",
+    "label": "Design",
+    "description": "Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models.",
+    "importance": 47
+  },
+  {
+    "record_id": "KN14",
+    "label": "Law and Government",
+    "description": "Knowledge of laws, legal codes, court procedures, precedents, government regulations, executive orders, agency rules, and the democratic political process.",
+    "importance": 44
+  },
+  {
+    "record_id": "KN15",
+    "label": "Sales and Marketing",
+    "description": "Knowledge of principles and methods for showing, promoting, and selling products or services. This includes marketing strategy and tactics, product demonstration, sales techniques, and sales control systems.",
+    "importance": 44
+  },
+  {
+    "record_id": "KN16",
+    "label": "Production and Processing",
+    "description": "Knowledge of raw materials, production processes, quality control, costs, and other techniques for maximizing the effective manufacture and distribution of goods.",
+    "importance": 43
+  },
+  {
+    "record_id": "KN17",
+    "label": "Psychology",
+    "description": "Knowledge of human behavior and performance; individual differences in ability, personality, and interests; learning and motivation; psychological research methods; and the assessment and treatment of behavioral and affective disorders.",
+    "importance": 40
+  },
+  {
+    "record_id": "KN18",
+    "label": "Public Safety and Security",
+    "description": "Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions.",
+    "importance": 40
+  },
+  {
+    "record_id": "KN19",
+    "label": "Sociology and Anthropology",
+    "description": "Knowledge of group behavior and dynamics, societal trends and influences, human migrations, ethnicity, cultures, and their history and origins.",
+    "importance": 31
+  },
+  {
+    "record_id": "KN20",
+    "label": "Building and Construction",
+    "description": "Knowledge of materials, methods, and the tools involved in the construction or repair of houses, buildings, or other structures such as highways and roads.",
+    "importance": 30
+  },
+  {
+    "record_id": "KN21",
+    "label": "Mechanical",
+    "description": "Knowledge of machines and tools, including their designs, uses, repair, and maintenance.",
+    "importance": 30
+  },
+  {
+    "record_id": "KN22",
+    "label": "Transportation",
+    "description": "Knowledge of principles and methods for moving people or goods by air, rail, sea, or road, including the relative costs and benefits.",
+    "importance": 25
+  },
+  {
+    "record_id": "KN23",
+    "label": "Geography",
+    "description": "Knowledge of principles and methods for describing the features of land, sea, and air masses, including their physical characteristics, locations, interrelationships, and distribution of plant, animal, and human life.",
+    "importance": 24
+  },
+  {
+    "record_id": "KN24",
+    "label": "Physics",
+    "description": "Knowledge and prediction of physical principles, laws, their interrelationships, and applications to understanding fluid, material, and atmospheric dynamics, and mechanical, electrical, atomic and sub-atomic structures and processes.",
+    "importance": 20
+  },
+  {
+    "record_id": "KN25",
+    "label": "Therapy and Counseling",
+    "description": "Knowledge of principles, methods, and procedures for diagnosis, treatment, and rehabilitation of physical and mental dysfunctions, and for career counseling and guidance.",
+    "importance": 20
+  },
+  {
+    "record_id": "KN26",
+    "label": "Chemistry",
+    "description": "Knowledge of the chemical composition, structure, and properties of substances and of the chemical processes and transformations that they undergo. This includes uses of chemicals and their interactions, danger signs, production techniques, and disposal methods.",
+    "importance": 18
+  },
+  {
+    "record_id": "KN27",
+    "label": "Philosophy and Theology",
+    "description": "Knowledge of different philosophical systems and religions. This includes their basic principles, values, ethics, ways of thinking, customs, practices, and their impact on human culture.",
+    "importance": 17
+  },
+  {
+    "record_id": "KN28",
+    "label": "Foreign Language",
+    "description": "Knowledge of the structure and content of a foreign (non-English) language including the meaning and spelling of words, rules of composition and grammar, and pronunciation.",
+    "importance": 16
+  },
+  {
+    "record_id": "KN29",
+    "label": "Biology",
+    "description": "Knowledge of plant and animal organisms, their tissues, cells, functions, interdependencies, and interactions with each other and the environment.",
+    "importance": 8
+  },
+  {
+    "record_id": "KN30",
+    "label": "History and Archeology",
+    "description": "Knowledge of historical events and their causes, indicators, and effects on civilizations and cultures.",
+    "importance": 8
+  },
+  {
+    "record_id": "KN31",
+    "label": "Medicine and Dentistry",
+    "description": "Knowledge of the information and techniques needed to diagnose and treat human injuries, diseases, and deformities. This includes symptoms, treatment alternatives, drug properties and interactions, and preventive health-care measures.",
+    "importance": 8
+  },
+  {
+    "record_id": "KN32",
+    "label": "Fine Arts",
+    "description": "Knowledge of the theory and techniques required to compose, produce, and perform works of music, dance, visual arts, drama, and sculpture.",
+    "importance": 6
+  },
+  {
+    "record_id": "KN33",
+    "label": "Food Production",
+    "description": "Knowledge of techniques and equipment for planting, growing, and harvesting food products (both plant and animal) for consumption, including storage/handling techniques.",
+    "importance": 4
+  }
+]

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment and editor noise
+.venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Proprietary or non-redistributable source materials
+PMI Standards/
+academic papers/
+
+# Large extracted text derived from source PDFs
+llm_exposure_workflow/output/raw_pages/
+llm_exposure_workflow/output/source_chunks/
+llm_exposure_workflow/output/pmi_chunks.jsonl
+llm_exposure_workflow/output/pmi_focus_chunks_tagged.jsonl
+
+# Temporary local fetch or notebook artifacts
+*.tmp

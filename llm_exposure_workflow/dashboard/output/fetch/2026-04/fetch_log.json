@@ -1,0 +1,120 @@
+{
+  "snapshot_month": "2026-04",
+  "generated_at_utc": "2026-04-20T08:06:39.925483+00:00",
+  "source_count": 8,
+  "resolved_result_count": 213,
+  "raw_source_row_count": 217,
+  "unresolved_row_count": 0,
+  "sources": [
+    {
+      "benchmark_id": "gaia",
+      "adapter": "hf_dataset_rows",
+      "source_url": "https://huggingface.co/gaia-benchmark",
+      "status": "fetched",
+      "resolved_count": 94,
+      "unresolved_count": 0,
+      "raw_count": 94,
+      "manual_fallback_count": 0,
+      "errors": [],
+      "meta": {
+        "dataset_id": "gaia-benchmark/results_public",
+        "config": "2023",
+        "split": "validation",
+        "requested_rows": 200,
+        "extracted_rows": 94
+      }
+    },
+    {
+      "benchmark_id": "bfcl_v4",
+      "adapter": "manual_csv",
+      "source_url": "https://gorilla.cs.berkeley.edu/leaderboard",
+      "status": "manual_only",
+      "resolved_count": 0,
+      "unresolved_count": 0,
+      "raw_count": 0,
+      "manual_fallback_count": 0,
+      "errors": []
+    },
+    {
+      "benchmark_id": "webarena_verified",
+      "adapter": "manual_csv",
+      "source_url": "https://github.com/ServiceNow/webarena-verified",
+      "status": "manual_only",
+      "resolved_count": 0,
+      "unresolved_count": 0,
+      "raw_count": 0,
+      "manual_fallback_count": 0,
+      "errors": []
+    },
+    {
+      "benchmark_id": "osworld_verified",
+      "adapter": "manual_csv",
+      "source_url": "https://os-world.github.io/",
+      "status": "manual_only",
+      "resolved_count": 0,
+      "unresolved_count": 0,
+      "raw_count": 0,
+      "manual_fallback_count": 0,
+      "errors": []
+    },
+    {
+      "benchmark_id": "tau3_bench",
+      "adapter": "manual_csv",
+      "source_url": "https://taubench.com/",
+      "status": "manual_only",
+      "resolved_count": 0,
+      "unresolved_count": 0,
+      "raw_count": 0,
+      "manual_fallback_count": 0,
+      "errors": []
+    },
+    {
+      "benchmark_id": "browsecomp",
+      "adapter": "manual_csv",
+      "source_url": "https://openai.com/index/browsecomp/",
+      "status": "manual_only",
+      "resolved_count": 0,
+      "unresolved_count": 0,
+      "raw_count": 0,
+      "manual_fallback_count": 0,
+      "errors": []
+    },
+    {
+      "benchmark_id": "swe_bench_verified",
+      "adapter": "manual_csv",
+      "source_url": "https://www.swebench.com/",
+      "status": "manual_only",
+      "resolved_count": 0,
+      "unresolved_count": 0,
+      "raw_count": 0,
+      "manual_fallback_count": 0,
+      "errors": []
+    },
+    {
+      "benchmark_id": "terminal_bench_2",
+      "adapter": "html_table",
+      "source_url": "https://www.tbench.ai/leaderboard/terminal-bench/2.0",
+      "status": "fetched",
+      "resolved_count": 123,
+      "unresolved_count": 0,
+      "raw_count": 123,
+      "manual_fallback_count": 0,
+      "errors": [],
+      "meta": [
+        {
+          "table_index": 0,
+          "columns": [
+            "Unnamed: 0",
+            "Rank",
+            "Agent",
+            "Model",
+            "Date",
+            "Agent Org",
+            "Model Org",
+            "Accuracy"
+          ]
+        }
+      ]
+    }
+  ]
+}

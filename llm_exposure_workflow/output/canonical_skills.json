@@ -1,0 +1,212 @@
+[
+  {
+    "record_id": "SK01",
+    "label": "Critical Thinking",
+    "description": "Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems.",
+    "importance": 78
+  },
+  {
+    "record_id": "SK02",
+    "label": "Active Listening",
+    "description": "Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.",
+    "importance": 75
+  },
+  {
+    "record_id": "SK03",
+    "label": "Coordination",
+    "description": "Adjusting actions in relation to others' actions.",
+    "importance": 75
+  },
+  {
+    "record_id": "SK04",
+    "label": "Reading Comprehension",
+    "description": "Understanding written sentences and paragraphs in work-related documents.",
+    "importance": 75
+  },
+  {
+    "record_id": "SK05",
+    "label": "Time Management",
+    "description": "Managing one's own time and the time of others.",
+    "importance": 75
+  },
+  {
+    "record_id": "SK06",
+    "label": "Writing",
+    "description": "Communicating effectively in writing as appropriate for the needs of the audience.",
+    "importance": 75
+  },
+  {
+    "record_id": "SK07",
+    "label": "Management of Personnel Resources",
+    "description": "Motivating, developing, and directing people as they work, identifying the best people for the job.",
+    "importance": 72
+  },
+  {
+    "record_id": "SK08",
+    "label": "Speaking",
+    "description": "Talking to others to convey information effectively.",
+    "importance": 72
+  },
+  {
+    "record_id": "SK09",
+    "label": "Systems Analysis",
+    "description": "Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.",
+    "importance": 69
+  },
+  {
+    "record_id": "SK10",
+    "label": "Judgment and Decision Making",
+    "description": "Considering the relative costs and benefits of potential actions to choose the most appropriate one.",
+    "importance": 66
+  },
+  {
+    "record_id": "SK11",
+    "label": "Monitoring",
+    "description": "Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.",
+    "importance": 66
+  },
+  {
+    "record_id": "SK12",
+    "label": "Systems Evaluation",
+    "description": "Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.",
+    "importance": 63
+  },
+  {
+    "record_id": "SK13",
+    "label": "Active Learning",
+    "description": "Understanding the implications of new information for both current and future problem-solving and decision-making.",
+    "importance": 60
+  },
+  {
+    "record_id": "SK14",
+    "label": "Complex Problem Solving",
+    "description": "Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.",
+    "importance": 60
+  },
+  {
+    "record_id": "SK15",
+    "label": "Negotiation",
+    "description": "Bringing others together and trying to reconcile differences.",
+    "importance": 60
+  },
+  {
+    "record_id": "SK16",
+    "label": "Social Perceptiveness",
+    "description": "Being aware of others' reactions and understanding why they react as they do.",
+    "importance": 60
+  },
+  {
+    "record_id": "SK17",
+    "label": "Service Orientation",
+    "description": "Actively looking for ways to help people.",
+    "importance": 56
+  },
+  {
+    "record_id": "SK18",
+    "label": "Instructing",
+    "description": "Teaching others how to do something.",
+    "importance": 53
+  },
+  {
+    "record_id": "SK19",
+    "label": "Management of Financial Resources",
+    "description": "Determining how money will be spent to get the work done, and accounting for these expenditures.",
+    "importance": 53
+  },
+  {
+    "record_id": "SK20",
+    "label": "Management of Material Resources",
+    "description": "Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.",
+    "importance": 53
+  },
+  {
+    "record_id": "SK21",
+    "label": "Persuasion",
+    "description": "Persuading others to change their minds or behavior.",
+    "importance": 53
+  },
+  {
+    "record_id": "SK22",
+    "label": "Learning Strategies",
+    "description": "Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.",
+    "importance": 50
+  },
+  {
+    "record_id": "SK23",
+    "label": "Mathematics",
+    "description": "Using mathematics to solve problems.",
+    "importance": 47
+  },
+  {
+    "record_id": "SK24",
+    "label": "Quality Control Analysis",
+    "description": "Conducting tests and inspections of products, services, or processes to evaluate quality or performance.",
+    "importance": 38
+  },
+  {
+    "record_id": "SK25",
+    "label": "Operations Analysis",
+    "description": "Analyzing needs and product requirements to create a design.",
+    "importance": 35
+  },
+  {
+    "record_id": "SK26",
+    "label": "Operations Monitoring",
+    "description": "Watching gauges, dials, or other indicators to make sure a machine is working properly.",
+    "importance": 31
+  },
+  {
+    "record_id": "SK27",
+    "label": "Programming",
+    "description": "Writing computer programs for various purposes.",
+    "importance": 31
+  },
+  {
+    "record_id": "SK28",
+    "label": "Science",
+    "description": "Using scientific rules and methods to solve problems.",
+    "importance": 28
+  },
+  {
+    "record_id": "SK29",
+    "label": "Technology Design",
+    "description": "Generating or adapting equipment and technology to serve user needs.",
+    "importance": 28
+  },
+  {
+    "record_id": "SK30",
+    "label": "Troubleshooting",
+    "description": "Determining causes of operating errors and deciding what to do about it.",
+    "importance": 13
+  },
+  {
+    "record_id": "SK31",
+    "label": "Operation and Control",
+    "description": "Controlling operations of equipment or systems.",
+    "importance": 3
+  },
+  {
+    "record_id": "SK32",
+    "label": "Equipment Maintenance",
+    "description": "Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.",
+    "importance": 0
+  },
+  {
+    "record_id": "SK33",
+    "label": "Equipment Selection",
+    "description": "Determining the kind of tools and equipment needed to do a job.",
+    "importance": 0
+  },
+  {
+    "record_id": "SK34",
+    "label": "Installation",
+    "description": "Installing equipment, machines, wiring, or programs to meet specifications.",
+    "importance": 0
+  },
+  {
+    "record_id": "SK35",
+    "label": "Repairing",
+    "description": "Repairing machines or systems using the needed tools.",
+    "importance": 0
+  }
+]

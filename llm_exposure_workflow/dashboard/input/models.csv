@@ -1,0 +1,214 @@
+model_id,display_name,provider,release_date,notes
+abacus_ai_desktop_multiple,Abacus AI Desktop | Multiple,Abacus AI Desktop,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+adk_gaia,ADK-GAIA,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+agent2030,Agent2030,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+agent_2030,agent-2030,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+agent_2030_v2_0,agent-2030-v2.0,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+agentim,AgentIM,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+agentim_v1_1,AgentIM v1.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+agents_on_the_fly,Agents-On-the-fly,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+aime_agent_v0_1,Aime_Agent_v0.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+alita_v0_1,Alita v0.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+alita_v1_1,Alita v1.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+alita_v2_0,Alita v2.0,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+alita_v2_1,Alita v2.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+anges,Anges,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+ant_test,ant_test,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+ante_gemini_3_pro,Ante | Gemini 3 Pro,Ante,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+auto_deep_research,Auto-Deep-Research,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+autogpt4,AutoGPT4,OpenAI-related submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+aworld,AWorld,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+aworld_click_to_run_instantly,AWorld (Click to Run Instantly),Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+barcelona_v0_1,Barcelona v0.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+camel_ai_claude_sonnet_4_5,CAMEL-AI | Claude Sonnet 4.5,CAMEL-AI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+capy_claude_opus_4_6,Capy | Claude Opus 4.6,Capy,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+cchuter_minimax_m2_5,cchuter | minimax-m2.5,cchuter,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+claritybot,ClarityBot,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+claritybotv2,ClarityBotV2,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+claude_code_claude_haiku_4_5,Claude Code | Claude Haiku 4.5,Claude Code,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+claude_code_claude_opus_4_1,Claude Code | Claude Opus 4.1,Claude Code,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+claude_code_claude_opus_4_5,Claude Code | Claude Opus 4.5,Claude Code,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+claude_code_claude_opus_4_6,Claude Code | Claude Opus 4.6,Claude Code,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+claude_code_claude_sonnet_4_5,Claude Code | Claude Sonnet 4.5,Claude Code,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+co_sight_v0_1_cores_agent_original,Co-Sight v0.1 | CoreS-Agent original,Co-Sight v0.1,,Auto-generated from live benchmark aliases. Observed in: gaia.
+co_sight_v0_2_cores_agent_original,Co-Sight v0.2 | CoreS-Agent original,Co-Sight v0.2,,Auto-generated from live benchmark aliases. Observed in: gaia.
+codebrain_1_gemini_3_pro,CodeBrain-1 | Gemini 3 Pro,CodeBrain-1,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+codebrain_1_gpt_5_3_codex,CodeBrain-1 | GPT-5.3-Codex,CodeBrain-1,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+codex_cli_gpt_5,Codex CLI | GPT-5,Codex CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+codex_cli_gpt_5_1_codex_max,Codex CLI | GPT-5.1-Codex-Max,Codex CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+codex_cli_gpt_5_2,Codex CLI | GPT-5.2,Codex CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+codex_cli_gpt_5_codex,Codex CLI | GPT-5-Codex,Codex CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+codex_cli_gpt_5_mini,Codex CLI | GPT-5-Mini,Codex CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+codex_cli_gpt_5_nano,Codex CLI | GPT-5-Nano,Codex CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+cohere_model,Cohere Model,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+cores_agent,CoreS-Agent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+cores_agent_v1_1,CoreS-Agent（V1.1）,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+cores_agent_v1_2,CoreS-Agent(V1.2),Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+crux_claude_opus_4_6,Crux | Claude Opus 4.6,Crux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+crux_glm_4_7,Crux | GLM 4.7,Crux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+crux_gpt_5_1_codex,Crux | GPT-5.1-Codex,Crux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+crux_gpt_5_1_codex_mini,Crux | GPT-5.1-Codex-Mini,Crux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+crux_minimax_m2_1,Crux | MiniMax M2.1,Crux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+dakou_agent_qwen_3_coder_480b,Dakou Agent | Qwen 3 Coder 480B,Dakou Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+deedee,deedee,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+deep_agents_gpt_5_2_codex,Deep Agents | GPT-5.2-Codex,Deep Agents,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+desearch,desearch,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+desearch_v0_2,desearch v0.2,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+desearch_v0_4,desearch v0.4,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+deserach_v0_3,deserach v0.3,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+dr_huichi,DR-Huichi,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+droid_claude_opus_4_5,Droid | Claude Opus 4.5,Droid,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+droid_claude_opus_4_6,Droid | Claude Opus 4.6,Droid,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+droid_gemini_3_pro,Droid | Gemini 3 Pro,Droid,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+droid_gpt_5_2,Droid | GPT-5.2,Droid,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+droid_gpt_5_3_codex,Droid | GPT-5.3-Codex,Droid,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+drp_val_v_1_0,DRP-val-v.1.0,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+dynasaur_l1,dynasaur_l1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+fhswf_gaia_smolagents,fhswf-gaia-smolagents,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+fhswf_smolagents,fhswf-smolagents,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+fhswfgaia,fhswfgaia,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+forgecode_claude_opus_4_6,ForgeCode | Claude Opus 4.6,ForgeCode,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+forgecode_gemini_3_1_pro,ForgeCode | Gemini 3.1 Pro,ForgeCode,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+forgecode_gpt_5_4,ForgeCode | GPT-5.4,ForgeCode,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+friday,FRIDAY,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+gemini_cli_gemini_2_5_flash,Gemini CLI | Gemini 2.5 Flash,Gemini CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+gemini_cli_gemini_2_5_pro,Gemini CLI | Gemini 2.5 Pro,Gemini CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+gemini_cli_gemini_3_flash,Gemini CLI | Gemini 3 Flash,Gemini CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+goose_claude_haiku_4_5,Goose | Claude Haiku 4.5,Goose,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+goose_claude_opus_4_5,Goose | Claude Opus 4.5,Goose,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+goose_claude_sonnet_4_5,Goose | Claude Sonnet 4.5,Goose,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+gpt3_5,GPT3.5,OpenAI-related submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+gpt4,GPT4,OpenAI-related submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+gpt4_turbo,GPT4 Turbo,OpenAI-related submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+gpt_3_5,gpt-3.5,OpenAI-related submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+grok_cli_grok_4_20_reasoning,grok-cli | Grok 4.20 Reasoning,grok-cli,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+h2ogpte_agent_v1_6_8,h2oGPTe Agent v1.6.8,OpenAI-related submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+hero_v0_1,Hero v0.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+hey_0_3,hey-0.3,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+honey_agent,Honey_agent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+hugging_face_agents_gpt_4o,Hugging Face Agents + GPT-4o,OpenAI-related submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+huggingface_agents_llama3_70b,HuggingFace Agents + Llama3-70B,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+ii_agent_gemini_3_pro,II-Agent | Gemini 3 Pro,II-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+indusagi_coding_agent_gpt_5_3_codex,IndusAGI Coding Agent | GPT-5.3-Codex,IndusAGI Coding Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+infantagent,InfantAgent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+infantagent_04_17,InfantAgent-04-17,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+junie_cli_gemini_3_flash,Junie CLI | Gemini 3 Flash,Junie CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+junie_cli_multiple,Junie CLI | Multiple,Junie CLI,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+kkm_agent,KKM Agent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+langfun_agent_2_3,Langfun Agent 2.3,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+langfun_agent_v2_0,Langfun Agent v2.0,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+langfun_agent_v2_1,Langfun Agent v2.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+langfun_agent_v2_2,Langfun Agent v2.2,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+letta_code_claude_opus_4_5,Letta Code | Claude Opus 4.5,Letta Code,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+letta_code_gemini_3_pro,Letta Code | Gemini 3 Pro,Letta Code,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+letta_code_gpt_5_1_codex,Letta Code | GPT-5.1-Codex,Letta Code,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+lrc_huawei,LRC-Huawei,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+magentic_1,Magentic-1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+magentic_1_o1,Magentic-1 (o1),Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+masteragent,MasterAgent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+masteragent20250510,MasterAgent20250510,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+maya_v2_claude_4_5_sonnet,MAYA-V2 | Claude 4.5 Sonnet,MAYA-V2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+maya_v2_claude_4_6_opus,MAYA-V2 | Claude 4.6 Opus,MAYA-V2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_claude_haiku_4_5,Mini-SWE-Agent | Claude Haiku 4.5,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_claude_opus_4_1,Mini-SWE-Agent | Claude Opus 4.1,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_claude_sonnet_4_5,Mini-SWE-Agent | Claude Sonnet 4.5,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_gemini_2_5_flash,Mini-SWE-Agent | Gemini 2.5 Flash,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_gemini_2_5_pro,Mini-SWE-Agent | Gemini 2.5 Pro,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_gpt_5,Mini-SWE-Agent | GPT-5,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_gpt_5_codex,Mini-SWE-Agent | GPT-5-Codex,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_gpt_5_mini,Mini-SWE-Agent | GPT-5-Mini,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_gpt_5_nano,Mini-SWE-Agent | GPT-5-Nano,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_gpt_oss_120b,Mini-SWE-Agent | GPT-OSS-120B,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_gpt_oss_20b,Mini-SWE-Agent | GPT-OSS-20B,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_grok_4,Mini-SWE-Agent | Grok 4,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mini_swe_agent_grok_code_fast_1,Mini-SWE-Agent | Grok Code Fast 1,Mini-SWE-Agent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+model_e0d7c8ae1a,АгентИИ.рф,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+multi_agent_experiment_v0_1_powered_by_autogen,Multi-Agent Experiment v0.1 (powered by AutoGen),Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+mux_claude_opus_4_5,Mux | Claude Opus 4.5,Mux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mux_claude_opus_4_6,Mux | Claude Opus 4.6,Mux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mux_gpt_5_2,Mux | GPT-5.2,Mux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+mux_gpt_5_3_codex,Mux | GPT-5.3-Codex,Mux,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+my_agent,my_agent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+noxrobot_v0_1,noxrobot v0.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+omne,omne,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+oneagent,OneAgent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+open_deep_research_pass_1,open Deep Research | pass@1,open Deep Research,,Auto-generated from live benchmark aliases. Observed in: gaia.
+opencode_claude_opus_4_5,OpenCode | Claude Opus 4.5,OpenCode,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_claude_haiku_4_5,OpenHands | Claude Haiku 4.5,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_claude_opus_4_1,OpenHands | Claude Opus 4.1,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_claude_opus_4_5,OpenHands | Claude Opus 4.5,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_claude_sonnet_4_5,OpenHands | Claude Sonnet 4.5,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_gemini_2_5_flash,OpenHands | Gemini 2.5 Flash,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_gemini_2_5_pro,OpenHands | Gemini 2.5 Pro,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_gpt_5,OpenHands | GPT-5,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_gpt_5_mini,OpenHands | GPT-5-Mini,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_gpt_5_nano,OpenHands | GPT-5-Nano,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_grok_4,OpenHands | Grok 4,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_kimi_k2_instruct,OpenHands | Kimi K2 Instruct,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openhands_qwen_3_coder_480b,OpenHands | Qwen 3 Coder 480B,OpenHands,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+openmanus,OpenManus,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+openresearch,openresearch,OpenAI-related submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+ormind_v0_1,Ormind v0.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+ormind_v0_2,Ormind v0.2,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+owl_roleplaying,🦉 OWL - Roleplaying,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+owl_workforce,🦉 OWL - Workforce,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+qb_1,qb_1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+qbds,qbds,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+qbnlp,qbnlp,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+re_odr,RE-ODR,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+running_beta,running-beta,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+sageagent_gemini_3_pro,SageAgent | Gemini 3 Pro,SageAgent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+sageagent_gpt_5_3_codex,SageAgent | GPT-5.3-Codex,SageAgent,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+sibyl_system_v0_1,Sibyl System v0.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+simple_codex_gpt_5_3_codex,Simple Codex | GPT-5.3-Codex,Simple Codex,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+skywork_super_agents_v1,Skywork Super Agents v1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+skywork_super_agents_v1_1,Skywork Super Agents v1.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+spoox_m_gpt_5_mini,spoox-m | GPT-5-Mini,spoox-m,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+tapeagent_v0_1,TapeAgent v0.1,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+tapeagents_browsergym,TapeAgents & BrowserGym,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+terminus_2_afterquery_gpt_oss_20b,Terminus 2 | AfterQuery-GPT-OSS-20B,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_claude_haiku_4_5,Terminus 2 | Claude Haiku 4.5,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_claude_opus_4_1,Terminus 2 | Claude Opus 4.1,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_claude_opus_4_5,Terminus 2 | Claude Opus 4.5,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_claude_opus_4_6,Terminus 2 | Claude Opus 4.6,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_claude_sonnet_4_5,Terminus 2 | Claude Sonnet 4.5,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_deepseek_v3_2,Terminus 2 | DeepSeek-V3.2,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gemini_2_5_flash,Terminus 2 | Gemini 2.5 Flash,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gemini_2_5_pro,Terminus 2 | Gemini 2.5 Pro,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gemini_3_flash,Terminus 2 | Gemini 3 Flash,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gemini_3_pro,Terminus 2 | Gemini 3 Pro,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_glm_4_6,Terminus 2 | GLM 4.6,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_glm_4_7,Terminus 2 | GLM 4.7,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_glm_5,Terminus 2 | GLM 5,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_5,Terminus 2 | GPT-5,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_5_1,Terminus 2 | GPT-5.1,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_5_1_codex,Terminus 2 | GPT-5.1-Codex,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_5_2,Terminus 2 | GPT-5.2,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_5_3_codex,Terminus 2 | GPT-5.3-Codex,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_5_codex,Terminus 2 | GPT-5-Codex,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_5_mini,Terminus 2 | GPT-5-Mini,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_5_nano,Terminus 2 | GPT-5-Nano,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_oss_120b,Terminus 2 | GPT-OSS-120B,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_gpt_oss_20b,Terminus 2 | GPT-OSS-20B,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_grok_4,Terminus 2 | Grok 4,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_grok_code_fast_1,Terminus 2 | Grok Code Fast 1,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_kimi_k2_5,Terminus 2 | Kimi K2.5,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_kimi_k2_instruct,Terminus 2 | Kimi K2 Instruct,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_kimi_k2_thinking,Terminus 2 | Kimi K2 Thinking,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_minimax_m2,Terminus 2 | MiniMax M2,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_minimax_m2_1,Terminus 2 | MiniMax M2.1,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_minimax_m2_5,Terminus 2 | Minimax m2.5,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_2_qwen_3_coder_480b,Terminus 2 | Qwen 3 Coder 480B,Terminus 2,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_kira_claude_opus_4_6,Terminus-KIRA | Claude Opus 4.6,Terminus-KIRA,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+terminus_kira_gemini_3_1_pro,Terminus-KIRA | Gemini 3.1 Pro,Terminus-KIRA,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+test,TEST,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+tobai,tobAI,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+tongagents_claude_opus_4_6,TongAgents | Claude Opus 4.6,TongAgents,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+tongagents_gemini_3_1_pro,TongAgents | Gemini 3.1 Pro,TongAgents,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+trase_agent,Trase Agent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+trase_agent_v0_2,Trase Agent v0.2,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+trase_agent_v0_3,Trase Agent v0.3,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+vm_agent,VM Agent,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+warm_up_act,Warm-up Act,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.
+warp_multiple,Warp | Multiple,Warp,,Auto-generated from live benchmark aliases. Observed in: terminal_bench_2.
+xmanus,xManus,Benchmark submission,,Auto-generated from live benchmark aliases. Observed in: gaia.

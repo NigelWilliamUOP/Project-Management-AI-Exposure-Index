@@ -1,0 +1,22 @@
+task_id,onet_task_text,onet_importance,importance_weight,DAE,OC,IC,SE,information_gathering,synthesis_reporting,planning_orchestration,monitoring_exception_detection,tool_mediated_execution,stakeholder_judgment,negotiation_persuasion,approval_authority,accountability_risk_ownership
+T01,"Manage project execution to ensure adherence to budget, schedule, and scope.",87,0.054206,70.0,81.25,64.46,45.12,2,2,3,4,3,4,2,3,4
+T02,Confer with project personnel to identify and resolve problems.,85,0.05296,55.0,75.0,19.21,10.56,3,2,2,2,2,4,3,2,3
+T03,Monitor or track project milestones and deliverables.,82,0.05109,75.0,43.75,35.08,26.31,3,3,2,4,3,2,1,1,3
+T04,"Submit project deliverables, ensuring adherence to quality standards.",81,0.050467,60.0,62.5,14.28,8.57,2,3,2,2,3,3,2,2,3
+T05,"Assess current or future customer needs and priorities by communicating directly with customers, conducting surveys, or other methods.",80,0.049844,60.0,75.0,20.65,12.39,4,3,2,1,2,4,3,2,3
+T06,"Initiate, review, or approve modifications to project plans.",80,0.049844,70.0,93.75,54.78,38.35,3,3,4,2,2,4,3,4,4
+T07,Schedule and facilitate meetings related to information technology projects.,79,0.049221,60.0,43.75,13.2,7.92,2,2,3,1,4,2,2,1,2
+T08,Direct or coordinate activities of project personnel.,78,0.048598,60.0,87.5,22.32,13.39,2,2,3,3,2,4,3,3,4
+T09,Develop implementation plans that include analyses such as cost-benefit or return on investment (ROI).,76,0.047352,80.0,75.0,19.34,15.47,3,4,4,2,3,4,2,3,3
+T10,Identify need for initial or supplemental project resources.,76,0.047352,65.0,62.5,31.12,20.23,3,2,3,2,3,3,2,2,3
+T11,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",76,0.047352,80.0,81.25,60.92,48.74,3,4,4,2,3,4,2,3,4
+T12,Perform risk assessments to develop response strategies.,76,0.047352,80.0,68.75,19.43,15.54,4,3,3,3,3,3,2,2,4
+T13,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",75,0.046729,80.0,43.75,54.51,43.61,3,4,2,3,4,2,1,1,3
+T14,"Identify, review, or select vendors or consultants to meet project needs.",74,0.046106,65.0,81.25,13.03,8.47,3,3,2,2,3,4,3,3,3
+T15,Develop and manage annual budgets for information technology projects.,74,0.046106,80.0,81.25,20.83,16.66,3,4,3,3,3,4,2,3,4
+T16,Establish and execute a project communication plan.,73,0.045483,80.0,62.5,29.93,23.94,3,4,4,2,3,3,2,2,3
+T17,Develop and manage work breakdown structure (WBS) of information technology projects.,73,0.045483,70.0,56.25,31.77,22.24,2,3,4,2,3,3,1,2,3
+T18,"Monitor the performance of project team members, providing and documenting performance feedback.",71,0.044237,65.0,87.5,11.6,7.54,3,3,2,3,2,4,3,3,4
+T19,Coordinate recruitment or selection of project personnel.,71,0.044237,65.0,75.0,14.52,9.44,3,3,2,2,3,4,3,2,3
+T20,"Assign duties, responsibilities, and spans of authority to project personnel.",70,0.043614,60.0,93.75,23.0,13.8,2,2,4,2,2,4,3,4,4
+T21,Negotiate with project stakeholders or suppliers to obtain resources or materials.,68,0.042368,50.0,93.75,13.9,6.95,3,2,3,1,1,4,4,3,4

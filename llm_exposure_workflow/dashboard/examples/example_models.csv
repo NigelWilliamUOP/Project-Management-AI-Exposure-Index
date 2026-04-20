@@ -1,0 +1,3 @@
+model_id,display_name,provider,release_date,notes
+model_alpha,Model Alpha,ExampleAI,2026-03-01,High-coverage example model.
+model_beta,Model Beta,Example Labs,2026-02-15,Partial-coverage example model.

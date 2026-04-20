@@ -1,0 +1,368 @@
+{
+  "manifest_version": "2026-04-19",
+  "manifest_purpose": "Execution manifest for Step 1 PMI extraction and chunking.",
+  "workflow_step": "step_01_pmi_chunking",
+  "workspace_root": "C:\\Users\\mrnig\\Documents\\codex\\AI and Project Management jobs",
+  "source_registry_file": "llm_exposure_workflow/source_registry.json",
+  "defaults": {
+    "extractor": "pypdf",
+    "include_page_markers": true,
+    "page_marker_format": "<PAGE {page_number}>",
+    "normalize_unicode": true,
+    "normalize_whitespace": true,
+    "drop_exact_duplicate_files": true,
+    "cleanup_rules": [
+      "strip_repeated_member_benefit_license_lines_when_identical_across_many_pages",
+      "strip_repeated_cover_headers_and_footers_when_identical_across_many_pages",
+      "preserve_section_headings",
+      "preserve_page_numbers_in_metadata",
+      "collapse_runs_of_blank_lines"
+    ],
+    "chunking": {
+      "target_words": 650,
+      "min_words": 400,
+      "max_words": 900,
+      "overlap_words": 80,
+      "split_on_section_headings": true,
+      "merge_short_adjacent_chunks": true,
+      "retain_page_provenance": true,
+      "chunk_id_pattern": "{chunk_id_prefix}_p{page_start:03d}_c{chunk_ordinal:02d}"
+    }
+  },
+  "output_targets": {
+    "raw_pages_dir": "llm_exposure_workflow/output/raw_pages",
+    "source_chunks_dir": "llm_exposure_workflow/output/source_chunks",
+    "merged_chunk_file": "llm_exposure_workflow/output/pmi_chunks.jsonl",
+    "chunk_tagging_prompt": "llm_exposure_workflow/prompts/01_pmi_chunk_tagging.md",
+    "chunk_tagging_schema": "llm_exposure_workflow/schemas/pmi_evidence_chunk.schema.json"
+  },
+  "duplicates": [
+    {
+      "relative_path": "PMI Standards/Standard_Earned_Value_Management (1).pdf",
+      "canonical_source_id": "evm",
+      "action": "skip",
+      "reason": "exact_sha256_match_with_canonical_evm_file"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "program",
+      "enabled": true,
+      "ingest_order": 1,
+      "document_type": "standard",
+      "role_in_workflow": "core_standard",
+      "display_title": "The Standard for Program Management (Fifth Edition)",
+      "relative_path": "PMI Standards/standardforprogrammanagementfifthed.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 262
+      },
+      "page_count": 262,
+      "chunk_id_prefix": "program",
+      "sha256": "8D8C7BCD0851301FC5B44A5153140D217C3380FDDA7172FAAA2EA19BB9C99F49",
+      "coverage_hints": [
+        "strategic_alignment",
+        "benefits_management",
+        "stakeholder_engagement",
+        "governance",
+        "collaboration",
+        "life_cycle_management"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/program_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/program_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "portfolio",
+      "enabled": true,
+      "ingest_order": 2,
+      "document_type": "standard",
+      "role_in_workflow": "core_standard",
+      "display_title": "The Standard for Portfolio Management (Fourth Edition)",
+      "relative_path": "PMI Standards/standardforportfoliomangementfourthed.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 140
+      },
+      "page_count": 140,
+      "chunk_id_prefix": "portfolio",
+      "sha256": "7A408F0DDE47681780261F818D4F633CD0AB37F9F36B32222EDC554407DCD1C5",
+      "coverage_hints": [
+        "portfolio_strategic_management",
+        "capacity_capability_management",
+        "stakeholder_engagement",
+        "value_management",
+        "risk_management"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/portfolio_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/portfolio_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "evm",
+      "enabled": true,
+      "ingest_order": 3,
+      "document_type": "standard",
+      "role_in_workflow": "core_standard",
+      "display_title": "The Standard for Earned Value Management",
+      "relative_path": "PMI Standards/Standard_Earned_Value_Management.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 182
+      },
+      "page_count": 182,
+      "chunk_id_prefix": "evm",
+      "sha256": "5A5A09F5669329A5E908F5A11173C849179F23FF0C62B8ED3FA284B110049C12",
+      "coverage_hints": [
+        "scope_schedule_cost_integration",
+        "baseline_control",
+        "monitoring_control",
+        "reporting",
+        "change_control",
+        "resource_management"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/evm_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/evm_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "risk_standard",
+      "enabled": true,
+      "ingest_order": 4,
+      "document_type": "standard",
+      "role_in_workflow": "core_standard",
+      "display_title": "The Standard for Risk Management in Portfolios, Programs, and Projects",
+      "relative_path": "PMI Standards/thestandardforriskmgmt.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 194
+      },
+      "page_count": 194,
+      "chunk_id_prefix": "risk_standard",
+      "sha256": "03CAD6A108B69E69336B95AF30A13B3144AF450CE5F135966E3871D53A26B59D",
+      "coverage_hints": [
+        "risk_management",
+        "risk_governance",
+        "uncertainty",
+        "portfolio_program_project_risk"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/risk_standard_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/risk_standard_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "risk_practice",
+      "enabled": true,
+      "ingest_order": 5,
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Risk Management in Portfolios, Programs, and Projects: A Practice Guide",
+      "relative_path": "PMI Standards/riskmanagementpracticeguide.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 165
+      },
+      "page_count": 165,
+      "chunk_id_prefix": "risk_practice",
+      "sha256": "49C1763EA74194870DF8D60904DB70B104B2E84EB306D2FBDEAB94467CF619FD",
+      "coverage_hints": [
+        "risk_identification",
+        "risk_analysis",
+        "risk_response",
+        "risk_monitoring"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/risk_practice_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/risk_practice_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "agile_pg",
+      "enabled": true,
+      "ingest_order": 6,
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Agile Practice Guide",
+      "relative_path": "PMI Standards/AgilePracticeGuide.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 184
+      },
+      "page_count": 184,
+      "chunk_id_prefix": "agile_pg",
+      "sha256": "CFE47C2EA4FFDE6CCB6A8B17930353FBABE527285DA1C24E47FA3D351104E294",
+      "coverage_hints": [
+        "agile_delivery",
+        "hybrid_delivery",
+        "adaptive_planning",
+        "backlog",
+        "iterative_monitoring"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/agile_pg_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/agile_pg_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "benefits_pg",
+      "enabled": true,
+      "ingest_order": 7,
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Benefits Realization Management: A Practice Guide",
+      "relative_path": "PMI Standards/benefitsrealizationmanagement_practiceguide.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 108
+      },
+      "page_count": 108,
+      "chunk_id_prefix": "benefits_pg",
+      "sha256": "D053497B614963AA87201ECFAF95CB762A516838E2A60E8D741F27630FAE5946",
+      "coverage_hints": [
+        "benefits_management",
+        "value_realization",
+        "transition_to_outcomes",
+        "benefits_tracking"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/benefits_pg_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/benefits_pg_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "requirements_pg",
+      "enabled": true,
+      "ingest_order": 8,
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Requirements Management: A Practice Guide",
+      "relative_path": "PMI Standards/RequirementsMgmt_PG.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 94
+      },
+      "page_count": 94,
+      "chunk_id_prefix": "requirements_pg",
+      "sha256": "B547EE76A0E7440E7B2B385692DE7716BB38F7CB9B5AF38408B28C4210BCDA3B",
+      "coverage_hints": [
+        "requirements_management",
+        "requirements_traceability",
+        "scope_definition",
+        "stakeholder_needs"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/requirements_pg_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/requirements_pg_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "scheduling_pg",
+      "enabled": true,
+      "ingest_order": 9,
+      "document_type": "practice_standard",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Practice Standard for Scheduling (Third Edition)",
+      "relative_path": "PMI Standards/PS_Scheduling_3rd.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 222
+      },
+      "page_count": 222,
+      "chunk_id_prefix": "scheduling_pg",
+      "sha256": "C6FD0898E7BB8635803A10EA65EBD27007AFBCB9D42C9683D3D37AF029FA7DCE",
+      "coverage_hints": [
+        "scheduling_management",
+        "activity_sequencing",
+        "critical_path",
+        "milestones",
+        "schedule_baseline"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/scheduling_pg_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/scheduling_pg_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "estimating_pg",
+      "enabled": true,
+      "ingest_order": 10,
+      "document_type": "practice_standard",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Practice Standard for Project Estimating (Second Edition)",
+      "relative_path": "PMI Standards/PS_Project_Estimating_2ndEd.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 136
+      },
+      "page_count": 136,
+      "chunk_id_prefix": "estimating_pg",
+      "sha256": "8A4B8E9DA520598B2578F0F5C35F86E147B199215B89BDB99388DA0AFD6D182B",
+      "coverage_hints": [
+        "estimating",
+        "basis_of_estimate",
+        "uncertainty",
+        "cost_schedule_baselining"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/estimating_pg_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/estimating_pg_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "wbs_pg",
+      "enabled": true,
+      "ingest_order": 11,
+      "document_type": "practice_standard",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Practice Standard for Work Breakdown Structures (Third Edition)",
+      "relative_path": "PMI Standards/PS_WBS_ThirdEd.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 214
+      },
+      "page_count": 214,
+      "chunk_id_prefix": "wbs_pg",
+      "sha256": "99DA3C77D8823C731FE134013682C7AF7FF2AC0BDD6BCA3E7169D6366B8CB67C",
+      "coverage_hints": [
+        "work_breakdown_management",
+        "scope_decomposition",
+        "work_packages",
+        "deliverable_structure"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/wbs_pg_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/wbs_pg_chunks.jsonl"
+      }
+    },
+    {
+      "source_id": "ba_practice",
+      "enabled": true,
+      "ingest_order": 12,
+      "document_type": "practice_guide",
+      "role_in_workflow": "supplemental_guide",
+      "display_title": "Business Analysis for Practitioners: A Practice Guide (Second Edition)",
+      "relative_path": "PMI Standards/ba_practitionerspg_secondedition.pdf",
+      "page_range": {
+        "start": 1,
+        "end": 162
+      },
+      "page_count": 162,
+      "chunk_id_prefix": "ba_practice",
+      "sha256": "73DC540DD6ABA1955C4C87BD1E31A92EA65A844A7D581295B7BFD58AD7A7C328",
+      "coverage_hints": [
+        "business_analysis",
+        "requirements_management",
+        "stakeholder_needs",
+        "solution_evaluation"
+      ],
+      "output_files": {
+        "raw_pages_file": "llm_exposure_workflow/output/raw_pages/ba_practice_pages.jsonl",
+        "source_chunks_file": "llm_exposure_workflow/output/source_chunks/ba_practice_chunks.jsonl"
+      }
+    }
+  ]
+}
