@@ -140,6 +140,20 @@ h2 {
   font-size: 1.02rem;
 }
 
+.hero-callout {
+  position: relative;
+  z-index: 1;
+  max-width: 58ch;
+  margin: 1rem 0 0;
+  padding: 0.95rem 1.05rem;
+  border: 1px solid rgba(27, 114, 103, 0.16);
+  border-radius: 1.15rem;
+  background: rgba(255, 255, 255, 0.66);
+  color: var(--ink);
+  line-height: 1.6;
+  font-weight: 600;
+}
+
 .hero-metrics {
   position: relative;
   z-index: 1;
@@ -218,6 +232,34 @@ h2 {
 
 .baseline-stat {
   padding: 1rem;
+}
+
+.baseline-explainer,
+.column-guide {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.guide-card {
+  padding: 1rem;
+  background: var(--panel-strong);
+  border: 1px solid var(--line);
+  border-radius: 1.2rem;
+}
+
+.guide-card h3 {
+  margin: 0;
+  font-size: 1rem;
+  letter-spacing: -0.02em;
+}
+
+.guide-card p {
+  margin: 0.55rem 0 0;
+  color: var(--muted);
+  line-height: 1.58;
+  font-size: 0.94rem;
 }
 
 .controls {
@@ -398,6 +440,8 @@ tbody tr:hover {
 @media (max-width: 1040px) {
   .hero-metrics,
   .baseline-grid,
+  .baseline-explainer,
+  .column-guide,
   .notes-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -428,6 +472,8 @@ tbody tr:hover {
 
   .hero-metrics,
   .baseline-grid,
+  .baseline-explainer,
+  .column-guide,
   .notes-grid,
   .controls {
     grid-template-columns: 1fr;

@@ -6,19 +6,23 @@
     <title>Project Management AI Exposure Index</title>
     <meta
       name="description"
-      content="A PMI-grounded comparison table that maps public agentic AI benchmarks into realized project-management exposure."
+      content="A public comparison table showing the extent to which agents can perform project-management tasks as defined by O*NET."
     />
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
     <div class="page-shell">
       <header class="hero">
-        <div class="eyebrow">PMI-grounded monthly benchmark dashboard</div>
+        <div class="eyebrow">Monthly agentic AI comparison dashboard</div>
         <h1>Project Management AI Exposure Index</h1>
         <p class="hero-copy">
-          This page compares tracked agentic AI systems by realized exposure to project-management work.
-          It blends a fixed structural PM exposure layer with the latest public benchmark evidence available
-          for each system.
+          This dashboard measures the extent to which agents can do project-management tasks as defined by
+          O*NET. It combines a fixed occupation-level baseline with current public benchmark evidence so you
+          can compare how capable different systems appear to be against the same PM task bundle.
+        </p>
+        <p class="hero-callout">
+          Higher scores mean stronger evidence that an agent can carry out more of the O*NET project-management
+          task set under the benchmarks currently available in the dashboard.
         </p>
         <div class="hero-metrics" id="hero-metrics">
           <article class="metric-card">
@@ -48,8 +52,11 @@
         <div class="panel-header">
           <h2>Structural Baseline</h2>
           <p>
-            These occupation-level values are fixed for the current PM pilot. The table below varies by
-            model capability and benchmark coverage, not by changes to the structural PM graph.
+            The structural baseline is the occupation side of the index. It does not rate any individual
+            model. Instead, it summarizes the O*NET project-management task bundle itself: how much of the
+            work appears technically exposable to agents, how tightly the tasks connect to each other, and
+            how much human oversight still matters. The comparison table below changes by model and benchmark
+            evidence, but these baseline values stay fixed unless the underlying O*NET task coding changes.
           </p>
         </div>
         <div class="baseline-grid">
@@ -74,6 +81,44 @@
             <strong id="baseline-tasks">--</strong>
           </article>
         </div>
+        <div class="baseline-explainer">
+          <article class="guide-card">
+            <h3>Direct Exposure</h3>
+            <p>
+              The share of the O*NET PM task bundle that looks performable, accelerable, or partially
+              substitutable by agents when you examine the task content directly.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Spillover Exposure</h3>
+            <p>
+              The extra impact created when a task sits in the middle of other tasks. If agents can do a
+              highly connected task, the effect can spill across planning, reporting, monitoring, and change
+              decisions.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Oversight Criticality</h3>
+            <p>
+              The degree to which the work still depends on human approval, accountability, escalation,
+              stakeholder judgment, or responsibility even when agents can help with execution.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Interdependence</h3>
+            <p>
+              How tightly the PM tasks influence each other. Higher interdependence means the occupation is
+              less like a list of isolated tasks and more like a connected operating system.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Task Count</h3>
+            <p>
+              The number of O*NET PM tasks included in the current pilot occupation. This keeps the scope of
+              the baseline transparent.
+            </p>
+          </article>
+        </div>
       </section>
 
       <section class="control-panel">
@@ -81,7 +126,7 @@
           <h2>Comparison Table</h2>
           <p>
             Search by model, filter by provider, and sort the ranking. Coverage is shown separately so low
-            benchmark visibility does not masquerade as low structural potential.
+            benchmark visibility does not masquerade as low agentic potential against the O*NET PM task set.
           </p>
         </div>
         <div class="controls">
@@ -116,6 +161,50 @@
           <span id="result-count">Loading comparison rows...</span>
           <span id="coverage-summary"></span>
         </div>
+        <div class="column-guide">
+          <article class="guide-card">
+            <h3>Rank</h3>
+            <p>
+              The position of the system after sorting the current table view. By default, rows are ordered
+              by realized exposure from highest to lowest.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>System</h3>
+            <p>
+              The tracked model or agent entry being compared. This is the unit as it appears in the benchmark
+              pipeline, which can be a base model, a tool-using system, or an agent scaffold.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Provider</h3>
+            <p>
+              The organization, product family, or benchmark submitter associated with the system label. This
+              helps you group related entries without assuming they are identical systems.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Realized Exposure</h3>
+            <p>
+              The main headline score. It estimates how far the system appears able to perform the O*NET PM
+              task bundle once benchmark evidence is layered on top of the structural baseline.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Coverage</h3>
+            <p>
+              The share of the capability layer supported by benchmark evidence for that system in the current
+              snapshot. Lower coverage means a row is supported by less benchmark visibility.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Benchmarks</h3>
+            <p>
+              The benchmark families currently contributing evidence for that system. These tags show where
+              the evidence came from rather than acting as a quality score by themselves.
+            </p>
+          </article>
+        </div>
         <div class="table-wrap">
           <table>
             <thead>
@@ -137,8 +226,8 @@
         <article class="note-card">
           <h2>How To Read This</h2>
           <p>
-            Higher realized exposure means the system aligns more strongly with the PM task structure under
-            the current benchmark evidence. It is not a claim of full automation or job substitution.
+            Higher realized exposure means the system aligns more strongly with the O*NET PM task structure
+            under the current benchmark evidence. It is not a claim of full automation or job substitution.
           </p>
         </article>
         <article class="note-card">
