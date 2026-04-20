@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Frontier LLM Benchmark for Project Management</title>
+    <meta
+      name="description"
+      content="A second benchmark view that compares frontier LLM model families against O*NET project-management tasks."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="eyebrow">Frontier model family view</div>
+        <h1>Frontier LLM Benchmark</h1>
+        <p class="hero-copy">
+          This version compares underlying frontier LLM model families rather than benchmark-specific agent
+          systems. It measures the extent to which those model families appear able to do project-management
+          tasks as defined by O*NET.
+        </p>
+        <p class="hero-callout">
+          For each benchmark in the current snapshot, the dashboard keeps the best observed public system
+          entry using a given model family, then recomputes the PM exposure scores from those family-level
+          benchmark rows.
+        </p>
+        <div class="hero-actions">
+          <a class="ghost-button" href="./index.html">System Comparison View</a>
+          <a class="ghost-button" href="./data/frontier-models.csv">Download Frontier CSV</a>
+        </div>
+        <div class="hero-metrics">
+          <article class="metric-card">
+            <span class="metric-label">Snapshot</span>
+            <strong class="metric-value" id="metric-snapshot">--</strong>
+            <span class="metric-subtext">Current frontier model family snapshot</span>
+          </article>
+          <article class="metric-card">
+            <span class="metric-label">Frontier Families</span>
+            <strong class="metric-value" id="metric-models">--</strong>
+            <span class="metric-subtext">Curated model families with public benchmark evidence</span>
+          </article>
+          <article class="metric-card accent-card">
+            <span class="metric-label">Top Family</span>
+            <strong class="metric-value" id="metric-top-score">--</strong>
+            <span class="metric-subtext" id="metric-top-model">--</span>
+          </article>
+          <article class="metric-card">
+            <span class="metric-label">Median Exposure</span>
+            <strong class="metric-value" id="metric-median">--</strong>
+            <span class="metric-subtext">Across all frontier families shown here</span>
+          </article>
+        </div>
+      </header>
+
+      <section class="baseline-panel">
+        <div class="panel-header">
+          <h2>How This View Works</h2>
+          <p>
+            The structural baseline is still the same O*NET project-management occupation. What changes here
+            is the capability layer: instead of ranking benchmark-specific systems, this page collapses
+            public benchmark rows into frontier model families and then recomputes the PM exposure scores.
+          </p>
+        </div>
+        <div class="column-guide">
+          <article class="guide-card">
+            <h3>Aggregation Rule</h3>
+            <p>
+              For each model family and benchmark, the view keeps the highest-scoring matched public system
+              entry in the current snapshot.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>What It Is Good For</h3>
+            <p>
+              This is useful when you want to compare underlying model families rather than specific
+              products, wrappers, or agent scaffolds.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>What It Is Not</h3>
+            <p>
+              This is not a scaffold-neutral lab test. It is a best-observed public-system view of each
+              frontier family under the benchmarks currently available.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Current Coverage Limit</h3>
+            <p>
+              In the current April 2026 snapshot, most frontier model families are observed primarily through
+              Terminal-Bench 2.0, so coverage is still thin and should be read as directional rather than final.
+            </p>
+          </article>
+        </div>
+        <div class="baseline-grid">
+          <article class="baseline-stat">
+            <span>Direct Exposure</span>
+            <strong id="baseline-dae">--</strong>
+          </article>
+          <article class="baseline-stat">
+            <span>Spillover Exposure</span>
+            <strong id="baseline-se">--</strong>
+          </article>
+          <article class="baseline-stat">
+            <span>Oversight Criticality</span>
+            <strong id="baseline-oc">--</strong>
+          </article>
+          <article class="baseline-stat">
+            <span>Interdependence</span>
+            <strong id="baseline-ic">--</strong>
+          </article>
+          <article class="baseline-stat">
+            <span>Task Count</span>
+            <strong id="baseline-tasks">--</strong>
+          </article>
+        </div>
+      </section>
+
+      <section class="control-panel">
+        <div class="panel-header">
+          <h2>Frontier Model Table</h2>
+          <p>
+            Search by model family, filter by provider, and inspect which public systems were selected to
+            represent each family on the benchmarks in the current snapshot.
+          </p>
+        </div>
+        <div class="controls">
+          <label class="control">
+            <span>Search</span>
+            <input id="search-input" type="search" placeholder="Model family, provider, benchmark, or system" />
+          </label>
+          <label class="control">
+            <span>Provider</span>
+            <select id="provider-filter"></select>
+          </label>
+          <label class="control">
+            <span>Min Coverage</span>
+            <input id="coverage-filter" type="range" min="0" max="100" step="1" value="0" />
+            <output id="coverage-output">0%</output>
+          </label>
+          <label class="control">
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="realized_occupation_exposure_100">Realized exposure</option>
+              <option value="benchmark_coverage_ratio">Coverage</option>
+              <option value="display_name">Model family</option>
+              <option value="provider">Provider</option>
+              <option value="benchmark_count">Benchmark count</option>
+              <option value="source_system_count">Matched systems</option>
+            </select>
+          </label>
+          <button id="sort-direction" class="ghost-button" type="button">Descending</button>
+          <a class="ghost-button" href="./data/frontier-models.csv">Download CSV</a>
+          <button id="reset-filters" class="ghost-button" type="button">Reset</button>
+        </div>
+        <div class="table-summary">
+          <span id="result-count">Loading frontier model rows...</span>
+          <span id="coverage-summary"></span>
+        </div>
+        <div class="column-guide">
+          <article class="guide-card">
+            <h3>Rank</h3>
+            <p>
+              The position of the model family after sorting the current table view, using realized exposure
+              by default.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Model Family</h3>
+            <p>
+              The underlying frontier LLM family after collapsing multiple public system entries into one
+              comparison row.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Provider</h3>
+            <p>
+              The organization associated with the model family, used here as a grouping aid rather than a
+              proxy for benchmark quality.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Realized Exposure</h3>
+            <p>
+              The PM exposure score after recomputing the dashboard with family-level benchmark rows built
+              from the best observed public systems.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Coverage</h3>
+            <p>
+              The weighted share of the dashboard capability layer supported by benchmark evidence for that
+              model family in the current snapshot.
+            </p>
+          </article>
+          <article class="guide-card">
+            <h3>Best Public Systems</h3>
+            <p>
+              The public system entries selected to represent the model family on each contributing benchmark.
+            </p>
+          </article>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Model Family</th>
+                <th>Provider</th>
+                <th>Realized Exposure</th>
+                <th>Coverage</th>
+                <th>Benchmarks</th>
+                <th>Best Public Systems</th>
+              </tr>
+            </thead>
+            <tbody id="comparison-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <noscript>
+      <div class="noscript-banner">JavaScript is required to render the frontier comparison table.</div>
+    </noscript>
+    <script src="./data/frontier-models.js"></script>
+    <script src="./frontier-app.js"></script>
+  </body>
+</html>

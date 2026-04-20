@@ -1,0 +1,96 @@
+snapshot_month,source_model_id,source_display_name,provider,benchmark_id,benchmark_variant
+2026-04,agentim,AgentIM,Benchmark submission,gaia,public_results
+2026-04,agentim_v1_1,AgentIM v1.1,Benchmark submission,gaia,public_results
+2026-04,autogpt4,AutoGPT4,OpenAI-related submission,gaia,public_results
+2026-04,barcelona_v0_1,Barcelona v0.1,Benchmark submission,gaia,public_results
+2026-04,gpt3_5,GPT3.5,OpenAI-related submission,gaia,public_results
+2026-04,gpt4,GPT4,OpenAI-related submission,gaia,public_results
+2026-04,gpt4_turbo,GPT4 Turbo,OpenAI-related submission,gaia,public_results
+2026-04,open_deep_research_pass_1,open Deep Research | pass@1,open Deep Research,gaia,public_results
+2026-04,auto_deep_research,Auto-Deep-Research,Benchmark submission,gaia,public_results
+2026-04,hugging_face_agents_gpt_4o,Hugging Face Agents + GPT-4o,OpenAI-related submission,gaia,public_results
+2026-04,huggingface_agents_llama3_70b,HuggingFace Agents + Llama3-70B,Benchmark submission,gaia,public_results
+2026-04,langfun_agent_v2_0,Langfun Agent v2.0,Benchmark submission,gaia,public_results
+2026-04,magentic_1,Magentic-1,Benchmark submission,gaia,public_results
+2026-04,magentic_1_o1,Magentic-1 (o1),Benchmark submission,gaia,public_results
+2026-04,multi_agent_experiment_v0_1_powered_by_autogen,Multi-Agent Experiment v0.1 (powered by AutoGen),Benchmark submission,gaia,public_results
+2026-04,friday,FRIDAY,Benchmark submission,gaia,public_results
+2026-04,re_odr,RE-ODR,Benchmark submission,gaia,public_results
+2026-04,sibyl_system_v0_1,Sibyl System v0.1,Benchmark submission,gaia,public_results
+2026-04,tapeagent_v0_1,TapeAgent v0.1,Benchmark submission,gaia,public_results
+2026-04,openresearch,openresearch,OpenAI-related submission,gaia,public_results
+2026-04,trase_agent,Trase Agent,Benchmark submission,gaia,public_results
+2026-04,trase_agent_v0_2,Trase Agent v0.2,Benchmark submission,gaia,public_results
+2026-04,trase_agent_v0_3,Trase Agent v0.3,Benchmark submission,gaia,public_results
+2026-04,warm_up_act,Warm-up Act,Benchmark submission,gaia,public_results
+2026-04,h2ogpte_agent_v1_6_8,h2oGPTe Agent v1.6.8,OpenAI-related submission,gaia,public_results
+2026-04,omne,omne,Benchmark submission,gaia,public_results
+2026-04,gpt_3_5,gpt-3.5,OpenAI-related submission,gaia,public_results
+2026-04,qb_1,qb_1,Benchmark submission,gaia,public_results
+2026-04,tapeagents_browsergym,TapeAgents & BrowserGym,Benchmark submission,gaia,public_results
+2026-04,qbds,qbds,Benchmark submission,gaia,public_results
+2026-04,owl_roleplaying,🦉 OWL - Roleplaying,Benchmark submission,gaia,public_results
+2026-04,ant_test,ant_test,Benchmark submission,gaia,public_results
+2026-04,noxrobot_v0_1,noxrobot v0.1,Benchmark submission,gaia,public_results
+2026-04,ormind_v0_1,Ormind v0.1,Benchmark submission,gaia,public_results
+2026-04,qbnlp,qbnlp,Benchmark submission,gaia,public_results
+2026-04,dynasaur_l1,dynasaur_l1,Benchmark submission,gaia,public_results
+2026-04,vm_agent,VM Agent,Benchmark submission,gaia,public_results
+2026-04,running_beta,running-beta,Benchmark submission,gaia,public_results
+2026-04,desearch,desearch,Benchmark submission,gaia,public_results
+2026-04,langfun_agent_v2_1,Langfun Agent v2.1,Benchmark submission,gaia,public_results
+2026-04,anges,Anges,Benchmark submission,gaia,public_results
+2026-04,dr_huichi,DR-Huichi,Benchmark submission,gaia,public_results
+2026-04,drp_val_v_1_0,DRP-val-v.1.0,Benchmark submission,gaia,public_results
+2026-04,lrc_huawei,LRC-Huawei,Benchmark submission,gaia,public_results
+2026-04,agents_on_the_fly,Agents-On-the-fly,Benchmark submission,gaia,public_results
+2026-04,owl_workforce,🦉 OWL - Workforce,Benchmark submission,gaia,public_results
+2026-04,infantagent,InfantAgent,Benchmark submission,gaia,public_results
+2026-04,infantagent_04_17,InfantAgent-04-17,Benchmark submission,gaia,public_results
+2026-04,ormind_v0_2,Ormind v0.2,Benchmark submission,gaia,public_results
+2026-04,aworld,AWorld,Benchmark submission,gaia,public_results
+2026-04,aime_agent_v0_1,Aime_Agent_v0.1,Benchmark submission,gaia,public_results
+2026-04,xmanus,xManus,Benchmark submission,gaia,public_results
+2026-04,agent2030,Agent2030,Benchmark submission,gaia,public_results
+2026-04,desearch_v0_2,desearch v0.2,Benchmark submission,gaia,public_results
+2026-04,hey_0_3,hey-0.3,Benchmark submission,gaia,public_results
+2026-04,kkm_agent,KKM Agent,Benchmark submission,gaia,public_results
+2026-04,hero_v0_1,Hero v0.1,Benchmark submission,gaia,public_results
+2026-04,my_agent,my_agent,Benchmark submission,gaia,public_results
+2026-04,honey_agent,Honey_agent,Benchmark submission,gaia,public_results
+2026-04,tobai,tobAI,Benchmark submission,gaia,public_results
+2026-04,cores_agent,CoreS-Agent,Benchmark submission,gaia,public_results
+2026-04,cores_agent_v1_1,CoreS-Agent（V1.1）,Benchmark submission,gaia,public_results
+2026-04,cores_agent_v1_2,CoreS-Agent(V1.2),Benchmark submission,gaia,public_results
+2026-04,openmanus,OpenManus,Benchmark submission,gaia,public_results
+2026-04,claritybot,ClarityBot,Benchmark submission,gaia,public_results
+2026-04,co_sight_v0_1_cores_agent_original,Co-Sight v0.1 | CoreS-Agent original,Co-Sight v0.1,gaia,public_results
+2026-04,co_sight_v0_2_cores_agent_original,Co-Sight v0.2 | CoreS-Agent original,Co-Sight v0.2,gaia,public_results
+2026-04,claritybotv2,ClarityBotV2,Benchmark submission,gaia,public_results
+2026-04,alita_v0_1,Alita v0.1,Benchmark submission,gaia,public_results
+2026-04,cohere_model,Cohere Model,Benchmark submission,gaia,public_results
+2026-04,alita_v1_1,Alita v1.1,Benchmark submission,gaia,public_results
+2026-04,deserach_v0_3,deserach v0.3,Benchmark submission,gaia,public_results
+2026-04,skywork_super_agents_v1,Skywork Super Agents v1,Benchmark submission,gaia,public_results
+2026-04,deedee,deedee,Benchmark submission,gaia,public_results
+2026-04,adk_gaia,ADK-GAIA,Benchmark submission,gaia,public_results
+2026-04,masteragent,MasterAgent,Benchmark submission,gaia,public_results
+2026-04,masteragent20250510,MasterAgent20250510,Benchmark submission,gaia,public_results
+2026-04,skywork_super_agents_v1_1,Skywork Super Agents v1.1,Benchmark submission,gaia,public_results
+2026-04,agent_2030,agent-2030,Benchmark submission,gaia,public_results
+2026-04,langfun_agent_v2_2,Langfun Agent v2.2,Benchmark submission,gaia,public_results
+2026-04,aworld_click_to_run_instantly,AWorld (Click to Run Instantly),Benchmark submission,gaia,public_results
+2026-04,desearch_v0_4,desearch v0.4,Benchmark submission,gaia,public_results
+2026-04,fhswfgaia,fhswfgaia,Benchmark submission,gaia,public_results
+2026-04,model_e0d7c8ae1a,АгентИИ.рф,Benchmark submission,gaia,public_results
+2026-04,test,TEST,Benchmark submission,gaia,public_results
+2026-04,alita_v2_0,Alita v2.0,Benchmark submission,gaia,public_results
+2026-04,fhswf_smolagents,fhswf-smolagents,Benchmark submission,gaia,public_results
+2026-04,langfun_agent_2_3,Langfun Agent 2.3,Benchmark submission,gaia,public_results
+2026-04,oneagent,OneAgent,Benchmark submission,gaia,public_results
+2026-04,fhswf_gaia_smolagents,fhswf-gaia-smolagents,Benchmark submission,gaia,public_results
+2026-04,alita_v2_1,Alita v2.1,Benchmark submission,gaia,public_results
+2026-04,agent_2030_v2_0,agent-2030-v2.0,Benchmark submission,gaia,public_results
+2026-04,junie_cli_multiple,Junie CLI | Multiple,Junie CLI,terminal_bench_2,current_public
+2026-04,warp_multiple,Warp | Multiple,Warp,terminal_bench_2,current_public
+2026-04,abacus_ai_desktop_multiple,Abacus AI Desktop | Multiple,Abacus AI Desktop,terminal_bench_2,current_public

@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0.0",
+  "notes": "Curated frontier and near-frontier model families represented in the current public benchmark snapshot. Matching is first-match-wins after list order using normalized lowercase text from model_id plus display_name.",
+  "frontier_models": [
+    {
+      "frontier_model_id": "openai_gpt_5_4",
+      "display_name": "GPT-5.4",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 4"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_3_codex",
+      "display_name": "GPT-5.3-Codex",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 3 codex"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_2_codex",
+      "display_name": "GPT-5.2-Codex",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 2 codex"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_2",
+      "display_name": "GPT-5.2",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 2"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_1_codex_max",
+      "display_name": "GPT-5.1-Codex-Max",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 1 codex max"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_1_codex_mini",
+      "display_name": "GPT-5.1-Codex-Mini",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 1 codex mini"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_1_codex",
+      "display_name": "GPT-5.1-Codex",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 1 codex"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_1",
+      "display_name": "GPT-5.1",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 1"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_codex",
+      "display_name": "GPT-5-Codex",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 codex"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_mini",
+      "display_name": "GPT-5-Mini",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 mini"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5_nano",
+      "display_name": "GPT-5-Nano",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5 nano"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "openai_gpt_oss_120b",
+      "display_name": "GPT-OSS-120B",
+      "provider": "OpenAI",
+      "include_terms": ["gpt oss 120b"],
+      "notes": "Open-weight family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "openai_gpt_oss_20b",
+      "display_name": "GPT-OSS-20B",
+      "provider": "OpenAI",
+      "include_terms": ["gpt oss 20b"],
+      "notes": "Open-weight family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "openai_gpt_5",
+      "display_name": "GPT-5",
+      "provider": "OpenAI",
+      "include_terms": ["gpt 5"],
+      "notes": "Catch-all GPT-5 family for rows that are not labeled with a more specific GPT-5 variant."
+    },
+    {
+      "frontier_model_id": "anthropic_claude_opus_4_6",
+      "display_name": "Claude Opus 4.6",
+      "provider": "Anthropic",
+      "include_terms": ["claude opus 4 6", "claude 4 6 opus"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "anthropic_claude_opus_4_5",
+      "display_name": "Claude Opus 4.5",
+      "provider": "Anthropic",
+      "include_terms": ["claude opus 4 5"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "anthropic_claude_opus_4_1",
+      "display_name": "Claude Opus 4.1",
+      "provider": "Anthropic",
+      "include_terms": ["claude opus 4 1"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "anthropic_claude_sonnet_4_5",
+      "display_name": "Claude Sonnet 4.5",
+      "provider": "Anthropic",
+      "include_terms": ["claude sonnet 4 5", "claude 4 5 sonnet"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "anthropic_claude_haiku_4_5",
+      "display_name": "Claude Haiku 4.5",
+      "provider": "Anthropic",
+      "include_terms": ["claude haiku 4 5"],
+      "notes": "Fast frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "google_gemini_3_1_pro",
+      "display_name": "Gemini 3.1 Pro",
+      "provider": "Google",
+      "include_terms": ["gemini 3 1 pro"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "google_gemini_3_pro",
+      "display_name": "Gemini 3 Pro",
+      "provider": "Google",
+      "include_terms": ["gemini 3 pro"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "google_gemini_3_flash",
+      "display_name": "Gemini 3 Flash",
+      "provider": "Google",
+      "include_terms": ["gemini 3 flash"],
+      "notes": "Fast frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "google_gemini_2_5_pro",
+      "display_name": "Gemini 2.5 Pro",
+      "provider": "Google",
+      "include_terms": ["gemini 2 5 pro"],
+      "notes": "Near-frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "google_gemini_2_5_flash",
+      "display_name": "Gemini 2.5 Flash",
+      "provider": "Google",
+      "include_terms": ["gemini 2 5 flash"],
+      "notes": "Near-frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "xai_grok_4_20_reasoning",
+      "display_name": "Grok 4.20 Reasoning",
+      "provider": "xAI",
+      "include_terms": ["grok 4 20 reasoning"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "xai_grok_code_fast_1",
+      "display_name": "Grok Code Fast 1",
+      "provider": "xAI",
+      "include_terms": ["grok code fast 1"],
+      "notes": "Specialized coding family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "xai_grok_4",
+      "display_name": "Grok 4",
+      "provider": "xAI",
+      "include_terms": ["grok 4"],
+      "notes": "Frontier family derived from benchmark-specific public system entries."
+    },
+    {
+      "frontier_model_id": "zhipu_glm_5",
+      "display_name": "GLM 5",
+      "provider": "Zhipu",
+      "include_terms": ["glm 5"],
+      "notes": "Frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "zhipu_glm_4_7",
+      "display_name": "GLM 4.7",
+      "provider": "Zhipu",
+      "include_terms": ["glm 4 7"],
+      "notes": "Frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "zhipu_glm_4_6",
+      "display_name": "GLM 4.6",
+      "provider": "Zhipu",
+      "include_terms": ["glm 4 6"],
+      "notes": "Near-frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "moonshot_kimi_k2_5",
+      "display_name": "Kimi K2.5",
+      "provider": "Moonshot AI",
+      "include_terms": ["kimi k2 5"],
+      "notes": "Frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "moonshot_kimi_k2_thinking",
+      "display_name": "Kimi K2 Thinking",
+      "provider": "Moonshot AI",
+      "include_terms": ["kimi k2 thinking"],
+      "notes": "Reasoning family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "moonshot_kimi_k2_instruct",
+      "display_name": "Kimi K2 Instruct",
+      "provider": "Moonshot AI",
+      "include_terms": ["kimi k2 instruct"],
+      "notes": "Instruction-tuned family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "deepseek_v3_2",
+      "display_name": "DeepSeek-V3.2",
+      "provider": "DeepSeek",
+      "include_terms": ["deepseek v3 2"],
+      "notes": "Frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "alibaba_qwen_3_coder_480b",
+      "display_name": "Qwen 3 Coder 480B",
+      "provider": "Alibaba",
+      "include_terms": ["qwen 3 coder 480b"],
+      "notes": "Large coding family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "minimax_m2_5",
+      "display_name": "MiniMax M2.5",
+      "provider": "MiniMax",
+      "include_terms": ["minimax m2 5"],
+      "notes": "Frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "minimax_m2_1",
+      "display_name": "MiniMax M2.1",
+      "provider": "MiniMax",
+      "include_terms": ["minimax m2 1"],
+      "notes": "Frontier family represented in the public benchmark snapshot."
+    },
+    {
+      "frontier_model_id": "minimax_m2",
+      "display_name": "MiniMax M2",
+      "provider": "MiniMax",
+      "include_terms": ["minimax m2"],
+      "notes": "Frontier family represented in the public benchmark snapshot."
+    }
+  ]
+}

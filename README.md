@@ -84,6 +84,8 @@ The repository includes a static comparison page that ranks models by realized p
 - page source: [`docs/index.html`](./docs/index.html)
 - generated data: [`docs/data/latest-comparison.json`](./docs/data/latest-comparison.json)
 - downloadable table: [`docs/data/latest-comparison.csv`](./docs/data/latest-comparison.csv)
+- frontier model page: [`docs/frontier-models.html`](./docs/frontier-models.html)
+- frontier model data: [`docs/data/frontier-models.json`](./docs/data/frontier-models.json)
 - deploy workflow: [`.github/workflows/deploy-pages.yml`](./.github/workflows/deploy-pages.yml)
 
 The repository now includes a GitHub Pages deployment workflow. If GitHub Pages is enabled in the repository settings, pushes to `main` can publish the comparison page as a lightweight public dashboard.

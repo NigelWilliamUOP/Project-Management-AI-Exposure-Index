@@ -1,0 +1,119 @@
+snapshot_month,frontier_model_id,frontier_display_name,frontier_provider,matching_term,source_model_id,source_display_name,source_provider,benchmark_id,benchmark_variant,score_normalized_100,result_quality_weight,selected_for_frontier
+2026-04,openai_gpt_5_4,GPT-5.4,OpenAI,gpt 5 4,forgecode_gpt_5_4,ForgeCode | GPT-5.4,ForgeCode,terminal_bench_2,current_public,81.8000,1.0000,yes
+2026-04,google_gemini_3_1_pro,Gemini 3.1 Pro,Google,gemini 3 1 pro,tongagents_gemini_3_1_pro,TongAgents | Gemini 3.1 Pro,TongAgents,terminal_bench_2,current_public,80.2000,1.0000,yes
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,forgecode_claude_opus_4_6,ForgeCode | Claude Opus 4.6,ForgeCode,terminal_bench_2,current_public,79.8000,1.0000,yes
+2026-04,openai_gpt_5_3_codex,GPT-5.3-Codex,OpenAI,gpt 5 3 codex,sageagent_gpt_5_3_codex,SageAgent | GPT-5.3-Codex,SageAgent,terminal_bench_2,current_public,78.4000,1.0000,yes
+2026-04,google_gemini_3_1_pro,Gemini 3.1 Pro,Google,gemini 3 1 pro,forgecode_gemini_3_1_pro,ForgeCode | Gemini 3.1 Pro,ForgeCode,terminal_bench_2,current_public,78.4000,1.0000,no
+2026-04,openai_gpt_5_3_codex,GPT-5.3-Codex,OpenAI,gpt 5 3 codex,droid_gpt_5_3_codex,Droid | GPT-5.3-Codex,Droid,terminal_bench_2,current_public,77.3000,1.0000,no
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,capy_claude_opus_4_6,Capy | Claude Opus 4.6,Capy,terminal_bench_2,current_public,75.3000,1.0000,no
+2026-04,openai_gpt_5_3_codex,GPT-5.3-Codex,OpenAI,gpt 5 3 codex,simple_codex_gpt_5_3_codex,Simple Codex | GPT-5.3-Codex,Simple Codex,terminal_bench_2,current_public,75.1000,1.0000,no
+2026-04,google_gemini_3_1_pro,Gemini 3.1 Pro,Google,gemini 3 1 pro,terminus_kira_gemini_3_1_pro,Terminus-KIRA | Gemini 3.1 Pro,Terminus-KIRA,terminal_bench_2,current_public,74.8000,1.0000,no
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,terminus_kira_claude_opus_4_6,Terminus-KIRA | Claude Opus 4.6,Terminus-KIRA,terminal_bench_2,current_public,74.7000,1.0000,no
+2026-04,openai_gpt_5_3_codex,GPT-5.3-Codex,OpenAI,gpt 5 3 codex,mux_gpt_5_3_codex,Mux | GPT-5.3-Codex,Mux,terminal_bench_2,current_public,74.6000,1.0000,no
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude 4 6 opus,maya_v2_claude_4_6_opus,MAYA-V2 | Claude 4.6 Opus,MAYA-V2,terminal_bench_2,current_public,72.1000,1.0000,no
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,tongagents_claude_opus_4_6,TongAgents | Claude Opus 4.6,TongAgents,terminal_bench_2,current_public,71.9000,1.0000,no
+2026-04,openai_gpt_5_3_codex,GPT-5.3-Codex,OpenAI,gpt 5 3 codex,codebrain_1_gpt_5_3_codex,CodeBrain-1 | GPT-5.3-Codex,CodeBrain-1,terminal_bench_2,current_public,70.3000,1.0000,no
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,droid_claude_opus_4_6,Droid | Claude Opus 4.6,Droid,terminal_bench_2,current_public,69.9000,1.0000,no
+2026-04,google_gemini_3_pro,Gemini 3 Pro,Google,gemini 3 pro,ante_gemini_3_pro,Ante | Gemini 3 Pro,Ante,terminal_bench_2,current_public,69.4000,1.0000,yes
+2026-04,openai_gpt_5_3_codex,GPT-5.3-Codex,OpenAI,gpt 5 3 codex,indusagi_coding_agent_gpt_5_3_codex,IndusAGI Coding Agent | GPT-5.3-Codex,IndusAGI Coding Agent,terminal_bench_2,current_public,69.1000,1.0000,no
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,crux_claude_opus_4_6,Crux | Claude Opus 4.6,Crux,terminal_bench_2,current_public,66.9000,1.0000,no
+2026-04,openai_gpt_5_2_codex,GPT-5.2-Codex,OpenAI,gpt 5 2 codex,deep_agents_gpt_5_2_codex,Deep Agents | GPT-5.2-Codex,Deep Agents,terminal_bench_2,current_public,66.5000,1.0000,yes
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,mux_claude_opus_4_6,Mux | Claude Opus 4.6,Mux,terminal_bench_2,current_public,66.5000,1.0000,no
+2026-04,google_gemini_3_pro,Gemini 3 Pro,Google,gemini 3 pro,sageagent_gemini_3_pro,SageAgent | Gemini 3 Pro,SageAgent,terminal_bench_2,current_public,65.2000,1.0000,no
+2026-04,openai_gpt_5_2,GPT-5.2,OpenAI,gpt 5 2,droid_gpt_5_2,Droid | GPT-5.2,Droid,terminal_bench_2,current_public,64.9000,1.0000,yes
+2026-04,openai_gpt_5_3_codex,GPT-5.3-Codex,OpenAI,gpt 5 3 codex,terminus_2_gpt_5_3_codex,Terminus 2 | GPT-5.3-Codex,Terminus 2,terminal_bench_2,current_public,64.7000,1.0000,no
+2026-04,google_gemini_3_flash,Gemini 3 Flash,Google,gemini 3 flash,junie_cli_gemini_3_flash,Junie CLI | Gemini 3 Flash,Junie CLI,terminal_bench_2,current_public,64.3000,1.0000,yes
+2026-04,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,claude opus 4 5,droid_claude_opus_4_5,Droid | Claude Opus 4.5,Droid,terminal_bench_2,current_public,63.1000,1.0000,yes
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,terminus_2_claude_opus_4_6,Terminus 2 | Claude Opus 4.6,Terminus 2,terminal_bench_2,current_public,62.9000,1.0000,no
+2026-04,openai_gpt_5_2,GPT-5.2,OpenAI,gpt 5 2,codex_cli_gpt_5_2,Codex CLI | GPT-5.2,Codex CLI,terminal_bench_2,current_public,62.9000,1.0000,no
+2026-04,google_gemini_3_pro,Gemini 3 Pro,Google,gemini 3 pro,codebrain_1_gemini_3_pro,CodeBrain-1 | Gemini 3 Pro,CodeBrain-1,terminal_bench_2,current_public,62.2000,1.0000,no
+2026-04,google_gemini_3_pro,Gemini 3 Pro,Google,gemini 3 pro,ii_agent_gemini_3_pro,II-Agent | Gemini 3 Pro,II-Agent,terminal_bench_2,current_public,61.8000,1.0000,no
+2026-04,google_gemini_3_pro,Gemini 3 Pro,Google,gemini 3 pro,droid_gemini_3_pro,Droid | Gemini 3 Pro,Droid,terminal_bench_2,current_public,61.1000,1.0000,no
+2026-04,openai_gpt_5_2,GPT-5.2,OpenAI,gpt 5 2,mux_gpt_5_2,Mux | GPT-5.2,Mux,terminal_bench_2,current_public,60.7000,1.0000,no
+2026-04,openai_gpt_5_1_codex_max,GPT-5.1-Codex-Max,OpenAI,gpt 5 1 codex max,codex_cli_gpt_5_1_codex_max,Codex CLI | GPT-5.1-Codex-Max,Codex CLI,terminal_bench_2,current_public,60.4000,1.0000,yes
+2026-04,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,claude opus 4 5,letta_code_claude_opus_4_5,Letta Code | Claude Opus 4.5,Letta Code,terminal_bench_2,current_public,59.1000,1.0000,no
+2026-04,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,claude opus 4 5,mux_claude_opus_4_5,Mux | Claude Opus 4.5,Mux,terminal_bench_2,current_public,58.4000,1.0000,no
+2026-04,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,claude opus 4 6,claude_code_claude_opus_4_6,Claude Code | Claude Opus 4.6,Claude Code,terminal_bench_2,current_public,58.0000,1.0000,no
+2026-04,openai_gpt_5_1_codex,GPT-5.1-Codex,OpenAI,gpt 5 1 codex,crux_gpt_5_1_codex,Crux | GPT-5.1-Codex,Crux,terminal_bench_2,current_public,57.8000,1.0000,yes
+2026-04,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,claude opus 4 5,terminus_2_claude_opus_4_5,Terminus 2 | Claude Opus 4.5,Terminus 2,terminal_bench_2,current_public,57.8000,1.0000,no
+2026-04,xai_grok_4_20_reasoning,Grok 4.20 Reasoning,xAI,grok 4 20 reasoning,grok_cli_grok_4_20_reasoning,grok-cli | Grok 4.20 Reasoning,grok-cli,terminal_bench_2,current_public,57.3000,1.0000,yes
+2026-04,google_gemini_3_pro,Gemini 3 Pro,Google,gemini 3 pro,terminus_2_gemini_3_pro,Terminus 2 | Gemini 3 Pro,Terminus 2,terminal_bench_2,current_public,56.9000,1.0000,no
+2026-04,google_gemini_3_pro,Gemini 3 Pro,Google,gemini 3 pro,letta_code_gemini_3_pro,Letta Code | Gemini 3 Pro,Letta Code,terminal_bench_2,current_public,56.0000,1.0000,no
+2026-04,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,claude opus 4 5,goose_claude_opus_4_5,Goose | Claude Opus 4.5,Goose,terminal_bench_2,current_public,54.3000,1.0000,no
+2026-04,openai_gpt_5_2,GPT-5.2,OpenAI,gpt 5 2,terminus_2_gpt_5_2,Terminus 2 | GPT-5.2,Terminus 2,terminal_bench_2,current_public,54.0000,1.0000,no
+2026-04,openai_gpt_5_1_codex,GPT-5.1-Codex,OpenAI,gpt 5 1 codex,letta_code_gpt_5_1_codex,Letta Code | GPT-5.1-Codex,Letta Code,terminal_bench_2,current_public,53.5000,1.0000,no
+2026-04,zhipu_glm_5,GLM 5,Zhipu,glm 5,terminus_2_glm_5,Terminus 2 | GLM 5,Terminus 2,terminal_bench_2,current_public,52.4000,1.0000,yes
+2026-04,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,claude opus 4 5,claude_code_claude_opus_4_5,Claude Code | Claude Opus 4.5,Claude Code,terminal_bench_2,current_public,52.1000,1.0000,no
+2026-04,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,claude opus 4 5,openhands_claude_opus_4_5,OpenHands | Claude Opus 4.5,OpenHands,terminal_bench_2,current_public,51.9000,1.0000,no
+2026-04,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,claude opus 4 5,opencode_claude_opus_4_5,OpenCode | Claude Opus 4.5,OpenCode,terminal_bench_2,current_public,51.7000,1.0000,no
+2026-04,google_gemini_3_flash,Gemini 3 Flash,Google,gemini 3 flash,terminus_2_gemini_3_flash,Terminus 2 | Gemini 3 Flash,Terminus 2,terminal_bench_2,current_public,51.7000,1.0000,no
+2026-04,openai_gpt_5,GPT-5,OpenAI,gpt 5,codex_cli_gpt_5,Codex CLI | GPT-5,Codex CLI,terminal_bench_2,current_public,49.6000,1.0000,yes
+2026-04,openai_gpt_5_1,GPT-5.1,OpenAI,gpt 5 1,terminus_2_gpt_5_1,Terminus 2 | GPT-5.1,Terminus 2,terminal_bench_2,current_public,47.6000,1.0000,yes
+2026-04,google_gemini_3_flash,Gemini 3 Flash,Google,gemini 3 flash,gemini_cli_gemini_3_flash,Gemini CLI | Gemini 3 Flash,Gemini CLI,terminal_bench_2,current_public,47.4000,1.0000,no
+2026-04,anthropic_claude_sonnet_4_5,Claude Sonnet 4.5,Anthropic,claude sonnet 4 5,camel_ai_claude_sonnet_4_5,CAMEL-AI | Claude Sonnet 4.5,CAMEL-AI,terminal_bench_2,current_public,46.5000,1.0000,yes
+2026-04,openai_gpt_5_codex,GPT-5-Codex,OpenAI,gpt 5 codex,codex_cli_gpt_5_codex,Codex CLI | GPT-5-Codex,Codex CLI,terminal_bench_2,current_public,44.3000,1.0000,yes
+2026-04,openai_gpt_5,GPT-5,OpenAI,gpt 5,openhands_gpt_5,OpenHands | GPT-5,OpenHands,terminal_bench_2,current_public,43.8000,1.0000,no
+2026-04,openai_gpt_5_codex,GPT-5-Codex,OpenAI,gpt 5 codex,terminus_2_gpt_5_codex,Terminus 2 | GPT-5-Codex,Terminus 2,terminal_bench_2,current_public,43.4000,1.0000,no
+2026-04,moonshot_kimi_k2_5,Kimi K2.5,Moonshot AI,kimi k2 5,terminus_2_kimi_k2_5,Terminus 2 | Kimi K2.5,Terminus 2,terminal_bench_2,current_public,43.2000,1.0000,yes
+2026-04,anthropic_claude_sonnet_4_5,Claude Sonnet 4.5,Anthropic,claude sonnet 4 5,goose_claude_sonnet_4_5,Goose | Claude Sonnet 4.5,Goose,terminal_bench_2,current_public,43.1000,1.0000,no
+2026-04,openai_gpt_5_1_codex_mini,GPT-5.1-Codex-Mini,OpenAI,gpt 5 1 codex mini,crux_gpt_5_1_codex_mini,Crux | GPT-5.1-Codex-Mini,Crux,terminal_bench_2,current_public,43.1000,1.0000,yes
+2026-04,anthropic_claude_sonnet_4_5,Claude Sonnet 4.5,Anthropic,claude sonnet 4 5,terminus_2_claude_sonnet_4_5,Terminus 2 | Claude Sonnet 4.5,Terminus 2,terminal_bench_2,current_public,42.8000,1.0000,no
+2026-04,anthropic_claude_sonnet_4_5,Claude Sonnet 4.5,Anthropic,claude 4 5 sonnet,maya_v2_claude_4_5_sonnet,MAYA-V2 | Claude 4.5 Sonnet,MAYA-V2,terminal_bench_2,current_public,42.7000,1.0000,no
+2026-04,minimax_m2_5,MiniMax M2.5,MiniMax,minimax m2 5,cchuter_minimax_m2_5,cchuter | minimax-m2.5,cchuter,terminal_bench_2,current_public,42.7000,1.0000,yes
+2026-04,anthropic_claude_sonnet_4_5,Claude Sonnet 4.5,Anthropic,claude sonnet 4 5,openhands_claude_sonnet_4_5,OpenHands | Claude Sonnet 4.5,OpenHands,terminal_bench_2,current_public,42.6000,1.0000,no
+2026-04,anthropic_claude_sonnet_4_5,Claude Sonnet 4.5,Anthropic,claude sonnet 4 5,mini_swe_agent_claude_sonnet_4_5,Mini-SWE-Agent | Claude Sonnet 4.5,Mini-SWE-Agent,terminal_bench_2,current_public,42.5000,1.0000,no
+2026-04,minimax_m2_5,MiniMax M2.5,MiniMax,minimax m2 5,terminus_2_minimax_m2_5,Terminus 2 | Minimax m2.5,Terminus 2,terminal_bench_2,current_public,42.2000,1.0000,no
+2026-04,openai_gpt_5_codex,GPT-5-Codex,OpenAI,gpt 5 codex,mini_swe_agent_gpt_5_codex,Mini-SWE-Agent | GPT-5-Codex,Mini-SWE-Agent,terminal_bench_2,current_public,41.3000,1.0000,no
+2026-04,anthropic_claude_sonnet_4_5,Claude Sonnet 4.5,Anthropic,claude sonnet 4 5,claude_code_claude_sonnet_4_5,Claude Code | Claude Sonnet 4.5,Claude Code,terminal_bench_2,current_public,40.1000,1.0000,no
+2026-04,deepseek_v3_2,DeepSeek-V3.2,DeepSeek,deepseek v3 2,terminus_2_deepseek_v3_2,Terminus 2 | DeepSeek-V3.2,Terminus 2,terminal_bench_2,current_public,39.6000,1.0000,yes
+2026-04,anthropic_claude_opus_4_1,Claude Opus 4.1,Anthropic,claude opus 4 1,terminus_2_claude_opus_4_1,Terminus 2 | Claude Opus 4.1,Terminus 2,terminal_bench_2,current_public,38.0000,1.0000,yes
+2026-04,anthropic_claude_opus_4_1,Claude Opus 4.1,Anthropic,claude opus 4 1,openhands_claude_opus_4_1,OpenHands | Claude Opus 4.1,OpenHands,terminal_bench_2,current_public,36.9000,1.0000,no
+2026-04,openai_gpt_5_1_codex,GPT-5.1-Codex,OpenAI,gpt 5 1 codex,terminus_2_gpt_5_1_codex,Terminus 2 | GPT-5.1-Codex,Terminus 2,terminal_bench_2,current_public,36.9000,1.0000,no
+2026-04,minimax_m2_1,MiniMax M2.1,MiniMax,minimax m2 1,crux_minimax_m2_1,Crux | MiniMax M2.1,Crux,terminal_bench_2,current_public,36.6000,1.0000,yes
+2026-04,moonshot_kimi_k2_thinking,Kimi K2 Thinking,Moonshot AI,kimi k2 thinking,terminus_2_kimi_k2_thinking,Terminus 2 | Kimi K2 Thinking,Terminus 2,terminal_bench_2,current_public,35.7000,1.0000,yes
+2026-04,anthropic_claude_haiku_4_5,Claude Haiku 4.5,Anthropic,claude haiku 4 5,goose_claude_haiku_4_5,Goose | Claude Haiku 4.5,Goose,terminal_bench_2,current_public,35.5000,1.0000,yes
+2026-04,openai_gpt_5,GPT-5,OpenAI,gpt 5,terminus_2_gpt_5,Terminus 2 | GPT-5,Terminus 2,terminal_bench_2,current_public,35.2000,1.0000,no
+2026-04,anthropic_claude_opus_4_1,Claude Opus 4.1,Anthropic,claude opus 4 1,mini_swe_agent_claude_opus_4_1,Mini-SWE-Agent | Claude Opus 4.1,Mini-SWE-Agent,terminal_bench_2,current_public,35.1000,1.0000,no
+2026-04,openai_gpt_5_mini,GPT-5-Mini,OpenAI,gpt 5 mini,spoox_m_gpt_5_mini,spoox-m | GPT-5-Mini,spoox-m,terminal_bench_2,current_public,34.8000,1.0000,yes
+2026-04,anthropic_claude_opus_4_1,Claude Opus 4.1,Anthropic,claude opus 4 1,claude_code_claude_opus_4_1,Claude Code | Claude Opus 4.1,Claude Code,terminal_bench_2,current_public,34.8000,1.0000,no
+2026-04,openai_gpt_5,GPT-5,OpenAI,gpt 5,mini_swe_agent_gpt_5,Mini-SWE-Agent | GPT-5,Mini-SWE-Agent,terminal_bench_2,current_public,33.9000,1.0000,no
+2026-04,zhipu_glm_4_7,GLM 4.7,Zhipu,glm 4 7,terminus_2_glm_4_7,Terminus 2 | GLM 4.7,Terminus 2,terminal_bench_2,current_public,33.4000,1.0000,yes
+2026-04,zhipu_glm_4_7,GLM 4.7,Zhipu,glm 4 7,crux_glm_4_7,Crux | GLM 4.7,Crux,terminal_bench_2,current_public,33.3000,1.0000,no
+2026-04,google_gemini_2_5_pro,Gemini 2.5 Pro,Google,gemini 2 5 pro,terminus_2_gemini_2_5_pro,Terminus 2 | Gemini 2.5 Pro,Terminus 2,terminal_bench_2,current_public,32.6000,1.0000,yes
+2026-04,openai_gpt_5_mini,GPT-5-Mini,OpenAI,gpt 5 mini,codex_cli_gpt_5_mini,Codex CLI | GPT-5-Mini,Codex CLI,terminal_bench_2,current_public,31.9000,1.0000,no
+2026-04,minimax_m2,MiniMax M2,MiniMax,minimax m2,terminus_2_minimax_m2,Terminus 2 | MiniMax M2,Terminus 2,terminal_bench_2,current_public,30.0000,1.0000,yes
+2026-04,anthropic_claude_haiku_4_5,Claude Haiku 4.5,Anthropic,claude haiku 4 5,mini_swe_agent_claude_haiku_4_5,Mini-SWE-Agent | Claude Haiku 4.5,Mini-SWE-Agent,terminal_bench_2,current_public,29.8000,1.0000,no
+2026-04,minimax_m2_1,MiniMax M2.1,MiniMax,minimax m2 1,terminus_2_minimax_m2_1,Terminus 2 | MiniMax M2.1,Terminus 2,terminal_bench_2,current_public,29.2000,1.0000,no
+2026-04,openai_gpt_5_mini,GPT-5-Mini,OpenAI,gpt 5 mini,openhands_gpt_5_mini,OpenHands | GPT-5-Mini,OpenHands,terminal_bench_2,current_public,29.2000,1.0000,no
+2026-04,anthropic_claude_haiku_4_5,Claude Haiku 4.5,Anthropic,claude haiku 4 5,terminus_2_claude_haiku_4_5,Terminus 2 | Claude Haiku 4.5,Terminus 2,terminal_bench_2,current_public,28.3000,1.0000,no
+2026-04,moonshot_kimi_k2_instruct,Kimi K2 Instruct,Moonshot AI,kimi k2 instruct,terminus_2_kimi_k2_instruct,Terminus 2 | Kimi K2 Instruct,Terminus 2,terminal_bench_2,current_public,27.8000,1.0000,yes
+2026-04,anthropic_claude_haiku_4_5,Claude Haiku 4.5,Anthropic,claude haiku 4 5,claude_code_claude_haiku_4_5,Claude Code | Claude Haiku 4.5,Claude Code,terminal_bench_2,current_public,27.5000,1.0000,no
+2026-04,alibaba_qwen_3_coder_480b,Qwen 3 Coder 480B,Alibaba,qwen 3 coder 480b,dakou_agent_qwen_3_coder_480b,Dakou Agent | Qwen 3 Coder 480B,Dakou Agent,terminal_bench_2,current_public,27.2000,1.0000,yes
+2026-04,xai_grok_4,Grok 4,xAI,grok 4,openhands_grok_4,OpenHands | Grok 4,OpenHands,terminal_bench_2,current_public,27.2000,1.0000,yes
+2026-04,moonshot_kimi_k2_instruct,Kimi K2 Instruct,Moonshot AI,kimi k2 instruct,openhands_kimi_k2_instruct,OpenHands | Kimi K2 Instruct,OpenHands,terminal_bench_2,current_public,26.7000,1.0000,no
+2026-04,google_gemini_2_5_pro,Gemini 2.5 Pro,Google,gemini 2 5 pro,mini_swe_agent_gemini_2_5_pro,Mini-SWE-Agent | Gemini 2.5 Pro,Mini-SWE-Agent,terminal_bench_2,current_public,26.1000,1.0000,no
+2026-04,xai_grok_code_fast_1,Grok Code Fast 1,xAI,grok code fast 1,mini_swe_agent_grok_code_fast_1,Mini-SWE-Agent | Grok Code Fast 1,Mini-SWE-Agent,terminal_bench_2,current_public,25.8000,1.0000,yes
+2026-04,alibaba_qwen_3_coder_480b,Qwen 3 Coder 480B,Alibaba,qwen 3 coder 480b,openhands_qwen_3_coder_480b,OpenHands | Qwen 3 Coder 480B,OpenHands,terminal_bench_2,current_public,25.4000,1.0000,no
+2026-04,xai_grok_4,Grok 4,xAI,grok 4,mini_swe_agent_grok_4,Mini-SWE-Agent | Grok 4,Mini-SWE-Agent,terminal_bench_2,current_public,25.4000,1.0000,no
+2026-04,zhipu_glm_4_6,GLM 4.6,Zhipu,glm 4 6,terminus_2_glm_4_6,Terminus 2 | GLM 4.6,Terminus 2,terminal_bench_2,current_public,24.5000,1.0000,yes
+2026-04,openai_gpt_5_mini,GPT-5-Mini,OpenAI,gpt 5 mini,terminus_2_gpt_5_mini,Terminus 2 | GPT-5-Mini,Terminus 2,terminal_bench_2,current_public,24.0000,1.0000,no
+2026-04,alibaba_qwen_3_coder_480b,Qwen 3 Coder 480B,Alibaba,qwen 3 coder 480b,terminus_2_qwen_3_coder_480b,Terminus 2 | Qwen 3 Coder 480B,Terminus 2,terminal_bench_2,current_public,23.9000,1.0000,no
+2026-04,xai_grok_4,Grok 4,xAI,grok 4,terminus_2_grok_4,Terminus 2 | Grok 4,Terminus 2,terminal_bench_2,current_public,23.1000,1.0000,no
+2026-04,openai_gpt_5_mini,GPT-5-Mini,OpenAI,gpt 5 mini,mini_swe_agent_gpt_5_mini,Mini-SWE-Agent | GPT-5-Mini,Mini-SWE-Agent,terminal_bench_2,current_public,22.2000,1.0000,no
+2026-04,google_gemini_2_5_pro,Gemini 2.5 Pro,Google,gemini 2 5 pro,gemini_cli_gemini_2_5_pro,Gemini CLI | Gemini 2.5 Pro,Gemini CLI,terminal_bench_2,current_public,19.6000,1.0000,no
+2026-04,openai_gpt_oss_120b,GPT-OSS-120B,OpenAI,gpt oss 120b,terminus_2_gpt_oss_120b,Terminus 2 | GPT-OSS-120B,Terminus 2,terminal_bench_2,current_public,18.7000,1.0000,yes
+2026-04,google_gemini_2_5_flash,Gemini 2.5 Flash,Google,gemini 2 5 flash,mini_swe_agent_gemini_2_5_flash,Mini-SWE-Agent | Gemini 2.5 Flash,Mini-SWE-Agent,terminal_bench_2,current_public,17.1000,1.0000,yes
+2026-04,openai_gpt_oss_20b,GPT-OSS-20B,OpenAI,gpt oss 20b,terminus_2_afterquery_gpt_oss_20b,Terminus 2 | AfterQuery-GPT-OSS-20B,Terminus 2,terminal_bench_2,current_public,17.0000,1.0000,yes
+2026-04,google_gemini_2_5_flash,Gemini 2.5 Flash,Google,gemini 2 5 flash,terminus_2_gemini_2_5_flash,Terminus 2 | Gemini 2.5 Flash,Terminus 2,terminal_bench_2,current_public,16.9000,1.0000,no
+2026-04,google_gemini_2_5_flash,Gemini 2.5 Flash,Google,gemini 2 5 flash,openhands_gemini_2_5_flash,OpenHands | Gemini 2.5 Flash,OpenHands,terminal_bench_2,current_public,16.4000,1.0000,no
+2026-04,google_gemini_2_5_pro,Gemini 2.5 Pro,Google,gemini 2 5 pro,openhands_gemini_2_5_pro,OpenHands | Gemini 2.5 Pro,OpenHands,terminal_bench_2,current_public,16.4000,1.0000,no
+2026-04,google_gemini_2_5_flash,Gemini 2.5 Flash,Google,gemini 2 5 flash,gemini_cli_gemini_2_5_flash,Gemini CLI | Gemini 2.5 Flash,Gemini CLI,terminal_bench_2,current_public,15.4000,1.0000,no
+2026-04,xai_grok_code_fast_1,Grok Code Fast 1,xAI,grok code fast 1,terminus_2_grok_code_fast_1,Terminus 2 | Grok Code Fast 1,Terminus 2,terminal_bench_2,current_public,14.2000,1.0000,no
+2026-04,openai_gpt_oss_120b,GPT-OSS-120B,OpenAI,gpt oss 120b,mini_swe_agent_gpt_oss_120b,Mini-SWE-Agent | GPT-OSS-120B,Mini-SWE-Agent,terminal_bench_2,current_public,14.2000,1.0000,no
+2026-04,anthropic_claude_haiku_4_5,Claude Haiku 4.5,Anthropic,claude haiku 4 5,openhands_claude_haiku_4_5,OpenHands | Claude Haiku 4.5,OpenHands,terminal_bench_2,current_public,13.9000,1.0000,no
+2026-04,openai_gpt_5_nano,GPT-5-Nano,OpenAI,gpt 5 nano,codex_cli_gpt_5_nano,Codex CLI | GPT-5-Nano,Codex CLI,terminal_bench_2,current_public,11.5000,1.0000,yes
+2026-04,openai_gpt_5_nano,GPT-5-Nano,OpenAI,gpt 5 nano,openhands_gpt_5_nano,OpenHands | GPT-5-Nano,OpenHands,terminal_bench_2,current_public,9.9000,1.0000,no
+2026-04,openai_gpt_5_nano,GPT-5-Nano,OpenAI,gpt 5 nano,terminus_2_gpt_5_nano,Terminus 2 | GPT-5-Nano,Terminus 2,terminal_bench_2,current_public,7.9000,1.0000,no
+2026-04,openai_gpt_5_nano,GPT-5-Nano,OpenAI,gpt 5 nano,mini_swe_agent_gpt_5_nano,Mini-SWE-Agent | GPT-5-Nano,Mini-SWE-Agent,terminal_bench_2,current_public,7.0000,1.0000,no
+2026-04,openai_gpt_oss_20b,GPT-OSS-20B,OpenAI,gpt oss 20b,mini_swe_agent_gpt_oss_20b,Mini-SWE-Agent | GPT-OSS-20B,Mini-SWE-Agent,terminal_bench_2,current_public,3.4000,1.0000,no
+2026-04,openai_gpt_oss_20b,GPT-OSS-20B,OpenAI,gpt oss 20b,terminus_2_gpt_oss_20b,Terminus 2 | GPT-OSS-20B,Terminus 2,terminal_bench_2,current_public,3.1000,1.0000,no

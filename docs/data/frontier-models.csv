@@ -1,0 +1,39 @@
+rank,frontier_model_id,display_name,provider,realized_occupation_exposure_100,benchmark_coverage_ratio,benchmark_count,benchmarks,selected_systems,source_system_count,selected_system_count,notes
+1,openai_gpt_5_4,GPT-5.4,OpenAI,25.0371,0.0543,1,terminal_bench_2,terminal_bench_2: ForgeCode | GPT-5.4,1,1,Frontier family derived from benchmark-specific public system entries.
+2,google_gemini_3_1_pro,Gemini 3.1 Pro,Google,24.5474,0.0543,1,terminal_bench_2,terminal_bench_2: TongAgents | Gemini 3.1 Pro,3,1,Frontier family derived from benchmark-specific public system entries.
+3,anthropic_claude_opus_4_6,Claude Opus 4.6,Anthropic,24.425,0.0543,1,terminal_bench_2,terminal_bench_2: ForgeCode | Claude Opus 4.6,10,1,Frontier family derived from benchmark-specific public system entries.
+4,openai_gpt_5_3_codex,GPT-5.3-Codex,OpenAI,23.9964,0.0543,1,terminal_bench_2,terminal_bench_2: SageAgent | GPT-5.3-Codex,7,1,Frontier family derived from benchmark-specific public system entries.
+5,google_gemini_3_pro,Gemini 3 Pro,Google,21.2418,0.0543,1,terminal_bench_2,terminal_bench_2: Ante | Gemini 3 Pro,7,1,Frontier family derived from benchmark-specific public system entries.
+6,openai_gpt_5_2_codex,GPT-5.2-Codex,OpenAI,20.3541,0.0543,1,terminal_bench_2,terminal_bench_2: Deep Agents | GPT-5.2-Codex,1,1,Frontier family derived from benchmark-specific public system entries.
+7,openai_gpt_5_2,GPT-5.2,OpenAI,19.8644,0.0543,1,terminal_bench_2,terminal_bench_2: Droid | GPT-5.2,4,1,Frontier family derived from benchmark-specific public system entries.
+8,google_gemini_3_flash,Gemini 3 Flash,Google,19.6808,0.0543,1,terminal_bench_2,terminal_bench_2: Junie CLI | Gemini 3 Flash,3,1,Fast frontier family derived from benchmark-specific public system entries.
+9,anthropic_claude_opus_4_5,Claude Opus 4.5,Anthropic,19.3135,0.0543,1,terminal_bench_2,terminal_bench_2: Droid | Claude Opus 4.5,8,1,Frontier family derived from benchmark-specific public system entries.
+10,openai_gpt_5_1_codex_max,GPT-5.1-Codex-Max,OpenAI,18.4871,0.0543,1,terminal_bench_2,terminal_bench_2: Codex CLI | GPT-5.1-Codex-Max,1,1,Frontier family derived from benchmark-specific public system entries.
+11,openai_gpt_5_1_codex,GPT-5.1-Codex,OpenAI,17.6913,0.0543,1,terminal_bench_2,terminal_bench_2: Crux | GPT-5.1-Codex,3,1,Frontier family derived from benchmark-specific public system entries.
+12,xai_grok_4_20_reasoning,Grok 4.20 Reasoning,xAI,17.5382,0.0543,1,terminal_bench_2,terminal_bench_2: grok-cli | Grok 4.20 Reasoning,1,1,Frontier family derived from benchmark-specific public system entries.
+13,zhipu_glm_5,GLM 5,Zhipu,16.0384,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | GLM 5,1,1,Frontier family represented in the public benchmark snapshot.
+14,openai_gpt_5,GPT-5,OpenAI,15.1814,0.0543,1,terminal_bench_2,terminal_bench_2: Codex CLI | GPT-5,4,1,Catch-all GPT-5 family for rows that are not labeled with a more specific GPT-5 variant.
+15,openai_gpt_5_1,GPT-5.1,OpenAI,14.5693,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | GPT-5.1,1,1,Frontier family derived from benchmark-specific public system entries.
+16,anthropic_claude_sonnet_4_5,Claude Sonnet 4.5,Anthropic,14.2326,0.0543,1,terminal_bench_2,terminal_bench_2: CAMEL-AI | Claude Sonnet 4.5,7,1,Frontier family derived from benchmark-specific public system entries.
+17,openai_gpt_5_codex,GPT-5-Codex,OpenAI,13.5592,0.0543,1,terminal_bench_2,terminal_bench_2: Codex CLI | GPT-5-Codex,3,1,Frontier family derived from benchmark-specific public system entries.
+18,moonshot_kimi_k2_5,Kimi K2.5,Moonshot AI,13.2225,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | Kimi K2.5,1,1,Frontier family represented in the public benchmark snapshot.
+19,openai_gpt_5_1_codex_mini,GPT-5.1-Codex-Mini,OpenAI,13.1919,0.0543,1,terminal_bench_2,terminal_bench_2: Crux | GPT-5.1-Codex-Mini,1,1,Frontier family derived from benchmark-specific public system entries.
+20,minimax_m2_5,MiniMax M2.5,MiniMax,13.0695,0.0543,1,terminal_bench_2,terminal_bench_2: cchuter | minimax-m2.5,2,1,Frontier family represented in the public benchmark snapshot.
+21,deepseek_v3_2,DeepSeek-V3.2,DeepSeek,12.1207,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | DeepSeek-V3.2,1,1,Frontier family represented in the public benchmark snapshot.
+22,anthropic_claude_opus_4_1,Claude Opus 4.1,Anthropic,11.6309,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | Claude Opus 4.1,4,1,Frontier family derived from benchmark-specific public system entries.
+23,minimax_m2_1,MiniMax M2.1,MiniMax,11.2024,0.0543,1,terminal_bench_2,terminal_bench_2: Crux | MiniMax M2.1,2,1,Frontier family represented in the public benchmark snapshot.
+24,moonshot_kimi_k2_thinking,Kimi K2 Thinking,Moonshot AI,10.927,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | Kimi K2 Thinking,1,1,Reasoning family represented in the public benchmark snapshot.
+25,anthropic_claude_haiku_4_5,Claude Haiku 4.5,Anthropic,10.8657,0.0543,1,terminal_bench_2,terminal_bench_2: Goose | Claude Haiku 4.5,5,1,Fast frontier family derived from benchmark-specific public system entries.
+26,openai_gpt_5_mini,GPT-5-Mini,OpenAI,10.6515,0.0543,1,terminal_bench_2,terminal_bench_2: spoox-m | GPT-5-Mini,5,1,Frontier family derived from benchmark-specific public system entries.
+27,zhipu_glm_4_7,GLM 4.7,Zhipu,10.223,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | GLM 4.7,2,1,Frontier family represented in the public benchmark snapshot.
+28,google_gemini_2_5_pro,Gemini 2.5 Pro,Google,9.9781,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | Gemini 2.5 Pro,4,1,Near-frontier family represented in the public benchmark snapshot.
+29,minimax_m2,MiniMax M2,MiniMax,9.1823,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | MiniMax M2,1,1,Frontier family represented in the public benchmark snapshot.
+30,moonshot_kimi_k2_instruct,Kimi K2 Instruct,Moonshot AI,8.5089,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | Kimi K2 Instruct,2,1,Instruction-tuned family represented in the public benchmark snapshot.
+31,xai_grok_4,Grok 4,xAI,8.3253,0.0543,1,terminal_bench_2,terminal_bench_2: OpenHands | Grok 4,3,1,Frontier family derived from benchmark-specific public system entries.
+32,alibaba_qwen_3_coder_480b,Qwen 3 Coder 480B,Alibaba,8.3253,0.0543,1,terminal_bench_2,terminal_bench_2: Dakou Agent | Qwen 3 Coder 480B,3,1,Large coding family represented in the public benchmark snapshot.
+33,xai_grok_code_fast_1,Grok Code Fast 1,xAI,7.8968,0.0543,1,terminal_bench_2,terminal_bench_2: Mini-SWE-Agent | Grok Code Fast 1,2,1,Specialized coding family represented in the public benchmark snapshot.
+34,zhipu_glm_4_6,GLM 4.6,Zhipu,7.4989,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | GLM 4.6,1,1,Near-frontier family represented in the public benchmark snapshot.
+35,openai_gpt_oss_120b,GPT-OSS-120B,OpenAI,5.7237,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | GPT-OSS-120B,2,1,Open-weight family represented in the public benchmark snapshot.
+36,google_gemini_2_5_flash,Gemini 2.5 Flash,Google,5.2339,0.0543,1,terminal_bench_2,terminal_bench_2: Mini-SWE-Agent | Gemini 2.5 Flash,4,1,Near-frontier family represented in the public benchmark snapshot.
+37,openai_gpt_oss_20b,GPT-OSS-20B,OpenAI,5.2033,0.0543,1,terminal_bench_2,terminal_bench_2: Terminus 2 | AfterQuery-GPT-OSS-20B,3,1,Open-weight family represented in the public benchmark snapshot.
+38,openai_gpt_5_nano,GPT-5-Nano,OpenAI,3.5199,0.0543,1,terminal_bench_2,terminal_bench_2: Codex CLI | GPT-5-Nano,4,1,Frontier family derived from benchmark-specific public system entries.

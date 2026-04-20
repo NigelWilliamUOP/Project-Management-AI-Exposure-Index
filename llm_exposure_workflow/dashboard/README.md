@@ -24,6 +24,8 @@ The design separates:
 - `input/manual_benchmark_results.csv`: manual rows for benchmarks without stable public feeds
 - `examples/example_models.csv`: example model registry
 - `examples/example_benchmark_results.csv`: example benchmark results
+- `frontier_model_registry.json`: curated frontier-model family registry for the second comparison view
+- `scripts/build_frontier_model_view.py`: builder for the frontier-model family benchmark and public webpage data
 
 ## Capability Families
 
