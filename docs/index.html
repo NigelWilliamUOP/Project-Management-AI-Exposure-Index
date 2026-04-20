@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Project Management AI Exposure Index</title>
+    <meta
+      name="description"
+      content="A PMI-grounded comparison table that maps public agentic AI benchmarks into realized project-management exposure."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="eyebrow">PMI-grounded monthly benchmark dashboard</div>
+        <h1>Project Management AI Exposure Index</h1>
+        <p class="hero-copy">
+          This page compares tracked agentic AI systems by realized exposure to project-management work.
+          It blends a fixed structural PM exposure layer with the latest public benchmark evidence available
+          for each system.
+        </p>
+        <div class="hero-metrics" id="hero-metrics">
+          <article class="metric-card">
+            <span class="metric-label">Snapshot</span>
+            <strong class="metric-value" id="metric-snapshot">--</strong>
+            <span class="metric-subtext">Current monthly comparison layer</span>
+          </article>
+          <article class="metric-card">
+            <span class="metric-label">Tracked Systems</span>
+            <strong class="metric-value" id="metric-models">--</strong>
+            <span class="metric-subtext">Resolved model or agent entries</span>
+          </article>
+          <article class="metric-card accent-card">
+            <span class="metric-label">Top Realized Exposure</span>
+            <strong class="metric-value" id="metric-top-score">--</strong>
+            <span class="metric-subtext" id="metric-top-model">--</span>
+          </article>
+          <article class="metric-card">
+            <span class="metric-label">Median Exposure</span>
+            <strong class="metric-value" id="metric-median">--</strong>
+            <span class="metric-subtext">Across all tracked systems</span>
+          </article>
+        </div>
+      </header>
+
+      <section class="baseline-panel">
+        <div class="panel-header">
+          <h2>Structural Baseline</h2>
+          <p>
+            These occupation-level values are fixed for the current PM pilot. The table below varies by
+            model capability and benchmark coverage, not by changes to the structural PM graph.
+          </p>
+        </div>
+        <div class="baseline-grid">
+          <article class="baseline-stat">
+            <span>Direct Exposure</span>
+            <strong id="baseline-dae">--</strong>
+          </article>
+          <article class="baseline-stat">
+            <span>Spillover Exposure</span>
+            <strong id="baseline-se">--</strong>
+          </article>
+          <article class="baseline-stat">
+            <span>Oversight Criticality</span>
+            <strong id="baseline-oc">--</strong>
+          </article>
+          <article class="baseline-stat">
+            <span>Interdependence</span>
+            <strong id="baseline-ic">--</strong>
+          </article>
+          <article class="baseline-stat">
+            <span>Task Count</span>
+            <strong id="baseline-tasks">--</strong>
+          </article>
+        </div>
+      </section>
+
+      <section class="control-panel">
+        <div class="panel-header">
+          <h2>Comparison Table</h2>
+          <p>
+            Search by model, filter by provider, and sort the ranking. Coverage is shown separately so low
+            benchmark visibility does not masquerade as low structural potential.
+          </p>
+        </div>
+        <div class="controls">
+          <label class="control">
+            <span>Search</span>
+            <input id="search-input" type="search" placeholder="Model, provider, or benchmark" />
+          </label>
+          <label class="control">
+            <span>Provider</span>
+            <select id="provider-filter"></select>
+          </label>
+          <label class="control">
+            <span>Min Coverage</span>
+            <input id="coverage-filter" type="range" min="0" max="100" step="1" value="0" />
+            <output id="coverage-output">0%</output>
+          </label>
+          <label class="control">
+            <span>Sort</span>
+            <select id="sort-select">
+              <option value="realized_occupation_exposure_100">Realized exposure</option>
+              <option value="benchmark_coverage_ratio">Coverage</option>
+              <option value="display_name">Model name</option>
+              <option value="provider">Provider</option>
+              <option value="benchmark_count">Benchmark count</option>
+            </select>
+          </label>
+          <button id="sort-direction" class="ghost-button" type="button">Descending</button>
+          <a class="ghost-button" href="./data/latest-comparison.csv">Download CSV</a>
+          <button id="reset-filters" class="ghost-button" type="button">Reset</button>
+        </div>
+        <div class="table-summary">
+          <span id="result-count">Loading comparison rows...</span>
+          <span id="coverage-summary"></span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>System</th>
+                <th>Provider</th>
+                <th>Realized Exposure</th>
+                <th>Coverage</th>
+                <th>Benchmarks</th>
+              </tr>
+            </thead>
+            <tbody id="comparison-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="notes-grid">
+        <article class="note-card">
+          <h2>How To Read This</h2>
+          <p>
+            Higher realized exposure means the system aligns more strongly with the PM task structure under
+            the current benchmark evidence. It is not a claim of full automation or job substitution.
+          </p>
+        </article>
+        <article class="note-card">
+          <h2>What Coverage Means</h2>
+          <p>
+            Coverage is the weighted share of the capability layer supported by benchmark results for a
+            given system in the current snapshot. Low coverage means interpret rankings carefully.
+          </p>
+        </article>
+        <article class="note-card">
+          <h2>Monthly Update Path</h2>
+          <p>
+            Refresh benchmark results, rebuild the monthly snapshot, then rerun the site-data builder. The
+            table is designed to update without changing the front-end code.
+          </p>
+        </article>
+      </section>
+    </div>
+
+    <noscript>
+      <div class="noscript-banner">JavaScript is required to render the comparison table.</div>
+    </noscript>
+    <script src="./data/latest-comparison.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
